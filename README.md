@@ -1,10 +1,10 @@
 # Running and developing Farm Site
 
 ## Running Farm Site for the first time
-Farm site is a Jekyll website project for Corner Farm Chicago. To run and develop it locally, you’ll need to [install Jekyll.](https://jekyllrb.com/docs/installation/). Farm site also uses Ruby 2.4.0.
+Farm site is a Jekyll website project for Corner Farm Chicago. To run and develop it locally, you’ll need to [install Jekyll](https://jekyllrb.com/docs/installation/). Farm site also uses Ruby 2.4.0.
 Once installed, clone the repository by clicking the green “Clone or download” button and copying the link. In Terminal, navigate to where you want to keep the directory, and type:
 ```shell
-git clone git@github.com:cgreim/farm-site.git
+git clone https://github.com/cgreim/farm-site.git
 ```
 
 
