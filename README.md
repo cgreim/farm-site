@@ -6,6 +6,7 @@ Once installed, clone the repository by clicking the green â€œClone or downloadâ
 ```shell
 git clone https://github.com/cgreim/farm-site.git
 ```
+_If you're using SSH instead of HTTP, replace the above with the SSH link instead._
 
 
 ## Running Farm Site on-going
