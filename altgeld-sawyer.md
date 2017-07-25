@@ -1,5 +1,5 @@
 ---
-layout: mission-page
+layout: altgeld-sawyer-page
 title: Altgeld Sawyer
 permalink: /altgeld-sawyer/
 ---
