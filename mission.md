@@ -1,5 +1,5 @@
 ---
-layout: mission-page
+layout: page
 title: Mission
 permalink: /mission/
 ---
