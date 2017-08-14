@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-3">{{ page.title | escape }}</h1>
+      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    </p>
+    <p class="lead">Sed sit amet aliquam mi. Vestibulum in massa non dolor sollicitudin suscipit. Nam a lacus orci. Duis.
+    </p>
+    <ul class="nav justify-content-center">
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/volunteering/">Volunteering</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/compost/">Compost</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/public-events/">Public Events</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/partnerships/">Partnerships</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <p>
+        {{ content }}
+      </p>
+    </div>
+  </div>
+</div>
