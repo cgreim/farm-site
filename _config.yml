@@ -30,3 +30,9 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# For importing bootstrap
+sass:
+  load_paths:
+      - _sass
+      - node_modules
