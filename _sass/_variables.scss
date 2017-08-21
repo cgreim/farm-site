@@ -1,4 +1,12 @@
-$custom-font-size: 20px;
-$pink: #ED1758;
+//
+// Colors
+//
+$pink: #ec008c;
+$brand-primary: $pink;
+
+//
+// Type
+//
+$base-font-family: 'Montserrat', sans-serif;
 
 @import "../node_modules/bootstrap/scss/variables";
