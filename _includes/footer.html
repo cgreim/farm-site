@@ -1,57 +1,62 @@
 <footer class="bg-faded">
   <div class="container">
     <div class="row">
-      <!-- <div class="col my-3 text-center"> -->
       <div class="col-lg-4">
-      	<h4 class="text-center">Corner Farm Chicago</h4>
+	  	<div class="row">
+	    	<h4>Corner Farm Chicago</h4>
+	    </div>
+	    <div class="row">
+	    	<h6>Grow with us.</h6>
+	    </div>
       	<div class="row">
-      		<div class="col">
-      			<a href="https://www.facebook.com/AltgeldSawyerCornerFarm/">Facebook</a>
-      		</div>
-      		<div class="col">
-      			<a href="https://www.instagram.com/cornerfarmchicago/">Instagram</a>
-      		</div>
-      		<div class="col">
-      			<a href="http://eventbrite.com">Eventbrite</a>
-      		</div>
+      		<a href="https://www.facebook.com/AltgeldSawyerCornerFarm/" class="pr-2">Facebook</a>
+      	    <a href="https://www.instagram.com/cornerfarmchicago/" class="pr-2">Instagram</a>
+			<a href="http://eventbrite.com" class="pr-2">Eventbrite</a>
       	</div>
       	<div class="row">
-      		<label for="newsletterEmail">Subscribe to our Newsletter</label>
-      		<div class="input-group">
-      			<input type="email" class="form-control" id="newsletterEmail" placeholder="Your email address">
-      			<span class="input-group-btn">
-    				<button class="btn btn-primary" type="submit">Subscribe!</button>
-      			</span>
-    		</div>
+      		<div class="col-s-8">
+	      		<label for="newsletterEmail">Subscribe to our Newsletter</label>
+	      		<div class="input-group">
+		      		<input type="email" class="form-control" id="newsletterEmail" placeholder="Your email address">
+		      		<span class="input-group-btn">
+		      			<button class="btn btn-primary" type="submit">Subscribe!</button>
+		      		</span>
+	      		</div>
+			</div>
       	</div>
       </div>
       <div class="col-lg-8">
       	<div class="row">
-	      <div class="col-md-2">
-	      	<ul>
-	      		<li>Home</li>
-	      		<li>About</li>
-	      		<li>Calendar</li>
+	      <div class="col-md-4">
+	      	<ul class="list-unstyled">
+	      		<li><a href="{{ site.baseurl }}/">Home</a></li>
+	      		<li><a href="{{ site.baseurl }}/calendar/">Calendar</a></li>
+	      		<li>About
+	      			<ul class="list-unstyled">
+	      				<li><a href="{{ site.baseurl }}/mission/">Mission</a></li>
+	      				<li><a href="{{ site.baseurl }}/altgeld-sawyer/">Altgeld-Sawyer</a></li>
+      				</ul>
+      			</li>
 	  		</ul>
 	      </div>
-	      <div class="col-md-3">
-	      	<ul>
+	      <div class="col-md-4">
+	      	<ul class="list-unstyled">
 	      		<li>Get Involved
-	      			<ul>
-	      				<li>Volunteering</li>
-	      				<li>Compost</li>
-	      				<li>Public Events</li>
-	      				<li>Partnerships</li>
+	      			<ul class="list-unstyled">
+	      				<li><a href="{{ site.baseurl }}/volunteering/">Volunteering</a></li>
+	      				<li><a href="{{ site.baseurl }}/compost/">Compost</a></li>
+	      				<li><a href="{{ site.baseurl }}/public-events/">Public Events</a></li>
+	      				<li><a href="{{ site.baseurl }}/partnerships/">Partnerships</a></li>
 	      			</ul>
 	      		</li>
 	  		</ul>
 	      </div>
-	      <div class="col-md-3">
-	      	<ul>
+	      <div class="col-md-4">
+	      	<ul class="list-unstyled">
 	      		<li>Resources
-	      			<ul>
-	      				<li>CFC Resources</li>
-	      				<li>General Farming</li>
+	      			<ul class="list-unstyled">
+	      				<li><a href="{{ site.baseurl }}/cfc-volunteers/">CFC Volunteers</a></li>
+	      				<li><a href="{{ site.baseurl }}/general-farming/">General Farming</a></li>
 	      			</ul>
 	      		</li>
 	  		</ul>
