@@ -17,8 +17,8 @@ title: Corner Farm Chicago
 email: your-email@domain.com
 description: > #
   Altgeld Sawyer Corner Farm is a community garden that seeks to create and support a sustainable neighborhood.
-baseurl: "/farm-site" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cgreim.github.io/farm-site" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CornerFarmChgo
 github_username:  jekyll
 
