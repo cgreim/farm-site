@@ -20,3 +20,24 @@ h6 {
 .display-4 {
 	font-weight: 700;
 }
+
+
+
+//
+// About Pages
+//
+.highlight-text {
+	text-transform: uppercase;
+	color: $pink;
+	background-color: $white;
+	padding: $spacer;
+	display: inline-block;
+}
+
+//
+// Nav
+//
+.custom-nav {
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
