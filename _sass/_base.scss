@@ -45,6 +45,8 @@ h6 {
 .jumbotron {
 	background: url("https://images.unsplash.com/photo-1500046570367-84a3db3604b4?dpr=2&auto=format&fit=crop&w=1080&h=810&q=80&cs=tinysrgb&crop=");
 	// Hotlinking is bad, fix this!
+	padding-bottom:0;
+	padding-top:3*$spacer;
 }
 
 .highlight-text {
@@ -61,6 +63,7 @@ h6 {
 .custom-nav {
 	text-transform: uppercase;
 	letter-spacing: 3px;
+	padding-top:1.5*$spacer;
 
 	a{
 		font-weight: 200;
