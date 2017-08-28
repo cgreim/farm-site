@@ -21,11 +21,32 @@ h6 {
 	font-weight: 700;
 }
 
+//
+// Header
+//
+.navbar{
+	text-transform: uppercase;
+	letter-spacing:1px;
+	font-size:0.8rem;
+
+	.dropdown-item{
+	font-size:0.8rem;
+	}
+}
+
+.nav-item{
+	padding: 0 0.5rem;
+}
 
 
 //
 // About Pages
 //
+.jumbotron {
+	background: url("https://images.unsplash.com/photo-1500046570367-84a3db3604b4?dpr=2&auto=format&fit=crop&w=1080&h=810&q=80&cs=tinysrgb&crop=");
+	// Hotlinking is bad, fix this!
+}
+
 .highlight-text {
 	text-transform: uppercase;
 	color: $pink;
@@ -39,7 +60,12 @@ h6 {
 //
 .custom-nav {
 	text-transform: uppercase;
-	letter-spacing: 2px;
+	letter-spacing: 3px;
+
+	a{
+		font-weight: 200;
+		color: $white;
+	}
 }
 
 //
