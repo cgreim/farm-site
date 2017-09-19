@@ -32,10 +32,28 @@ h6 {
 	.dropdown-item{
 	font-size:0.8rem;
 	}
+	
 }
 
-.nav-item{
+.nav-item {
 	padding: 0 0.5rem;
+
+	.nav-link {
+		color: black !important;
+		&:hover {
+			color: $pink !important;
+		}
+	}
+}
+
+.logo {
+		height: 65px;
+	}
+
+@include media-breakpoint-down(md) { 
+	.logo {
+		height: 35px;
+	}
 }
 
 
