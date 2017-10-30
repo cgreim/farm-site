@@ -4,23 +4,23 @@ layout: default
 <div class="jumbotron jumbotron-fluid">
   <div class="container text-center">
     <h1 class="display-3 highlight-text">{{ page.title | escape }}</h1>
-    <ul class="nav custom-nav justify-content-center">
+    <ul class="nav sub-nav justify-content-center">
       <li class="nav-item">
-        <a class="nav-link" href="{{ site.baseurl }}/mission/">Mission/Vision</a>
+        <a class="nav-link" href="{{ site.url }}/mission/">Mission/Vision</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="{{ site.baseurl }}/altgeld-sawyer/">Altgeld Sawyer</a>
+        <a class="nav-link" href="{{ site.url }}/altgeld-sawyer/">Altgeld Sawyer</a>
       </li>
     </ul>
   </div>
 </div>
 
-<div class="container">
-  <div class="row">
-    <div class="col">
+<article class="container">
+  <div class="row justify-content-md-center">
+    <div class="col-sm-8">
       <p>
         {{ content }}
       </p>
     </div>
   </div>
-</div>
+</article>
