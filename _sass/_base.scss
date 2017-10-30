@@ -32,16 +32,16 @@ h6 {
 	.dropdown-item{
 	font-size:0.8rem;
 	}
-	
+
 }
 
 .nav-item {
 	padding: 0 0.5rem;
 
 	.nav-link {
-		color: black !important;
+		color: black;
 		&:hover {
-			color: $pink !important;
+			color: $pink;
 		}
 	}
 }
@@ -50,7 +50,7 @@ h6 {
 		height: 65px;
 	}
 
-@include media-breakpoint-down(md) { 
+@include media-breakpoint-down(md) {
 	.logo {
 		height: 35px;
 	}
@@ -62,6 +62,7 @@ h6 {
 //
 .jumbotron {
 	background: url("images/about-header.jpeg") no-repeat center center;
+	background-size: cover;
 	padding-bottom:0;
 	padding-top:3*$spacer;
 }
@@ -74,25 +75,56 @@ h6 {
 	display: inline-block;
 }
 
+article {
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		color: $pink;
+		text-transform: uppercase;
+	}
+
+	hr {
+		border: solid 1px $pink;
+		margin-top: 3*$spacer;
+		margin-bottom: 3*$spacer;
+	}
+}
+
 //
 // Nav
 //
-.custom-nav {
+.sub-nav {
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	padding-top:1.5*$spacer;
+	font-size: 14px;
+	font-weight: 400;
 
-	a{
-		font-weight: 200;
-		color: $white;
+	a {
+		color: $white !important;
+		&:hover {
+			color: $pink !important;
+		}
+	}
+}
+
+@include media-breakpoint-down(xs) {
+	.sub-nav li {
+		display: block !important;
+		width: 100%;
+		background-color: red;
 	}
 }
 
 //
 // Footer
 //
-footer{
+footer {
 	background: $gray;
+	margin-top: 3*$spacer;
 	h4,h6,a,p,label{
 		color: $white;
 	}
