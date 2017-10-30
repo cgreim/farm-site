@@ -4,9 +4,13 @@
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <a class="navbar-brand" href="{{ site.url }}/">{{ site.title | escape }}</a>
+
+      <a class="navbar-brand" href="{{ site.url }}/">
+        <img src="/assets/images/CFC-logo.png" class="logo" alt="{{ site.title | escape }}">
+      </a>
+
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
-        <ul class="navbar-nav">
+        <ul class="navbar-nav mr-auto">
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="{{ site.url }}/mission/" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               About
@@ -40,6 +44,11 @@
             <a class="nav-link" href="{{ site.url }}/calendar/">Calendar</a>
           </li>
         </ul>
+
+        <form class="form-inline">
+          <button class="btn btn-sm btn-primary" type="button">Donate</button>
+        </form>
+
       </div>
     </nav>
   </div>
