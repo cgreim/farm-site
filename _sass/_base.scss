@@ -93,6 +93,22 @@ article {
 	}
 }
 
+figure>img{
+	width:100%;
+}
+
+figcaption{
+	font-size:12px;
+	color:#999;
+}
+
+.quote{
+	font-size:24px;
+	color:green;
+	padding: 30px 50px;
+	border:$pink 1px solid;
+}
+
 //
 // Nav
 //
