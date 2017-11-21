@@ -6,7 +6,7 @@ layout: home
 Title: Corner Farm
 ---
 
-# Growing Calendar
+### Growing Calendar
 
 <div class="sidebar">
 	<ul>
@@ -21,57 +21,76 @@ Title: Corner Farm
 				<li>Plan orientation and kickoff meetings</li>
 			</ul>	
 		</li>
+		<li>March
+			<ul>
+				<li>Hold orientation sessions and kickoff meetings</li>
+				<li>Host fundraiser</li>
+				<li>Start seeds for summer crops</li>
+			</ul>	
+		</li>
+		<li>April
+			<ul>
+				<li>Workdays begin</li>
+				<li>Build and paint signs</li>
+				<li>Repair/rebuild beds</li>
+				<li>Spread soil</li>
+				<li>Set up rain barrels</li>
+				<li>Compost opens</li>
+			</ul>	
+		</li>
+		<li>May
+			<ul>
+				<li>Direct sow spring crops</li>
+				<li>Plant seedlings for summer crops</li>
+			</ul>	
+		</li>
+		<li>June
+			<ul>
+				<li>Christopher House and Kids table weekly program in the garden begins</li>
+				<li>Logan Square Arts Fest</li>
+				<li>Potluck with Christopher House and Kids Table</li>
+				<li>Weed!</li>
+				<li>Harvest spring crops</li>
+			</ul>	
+		</li>
+		<li>July
+			<ul>
+				<li>Begin treating for pests</li>
+				<li>Harvest summer crops</li>
+				<li>Plant late summer/fall crops</li>
+			</ul>	
+		</li>
+		<li>August
+			<ul>
+				<li>Potluck with Christopher House and Kids Table</li>
+				<li>Harvest summer crops</li>
+				<li>Harvest and cure garlic</li>
+				<li>Plant late summer/fall crops</li>
+			</ul>	
+		</li>
+		<li>September
+			<ul>
+				<li>Harvest fall crops</li>
+			</ul>	
+		</li>
+		<li>October
+			<ul>
+				<li>Compost closes</li>
+				<li>Remove/trim back remaining plants</li>
+				<li>Plant garlic for next year</li>
+				<li>Cover beds with mulch/hay</li>
+				<li>Empty and store rain barrels </li>
+			</ul>	
+		</li>
+		<li>November
+			<ul>
+				<li>Take a break!</li>
+			</ul>	
+		</li>
+		<li>December
+			<ul>
+				<li>Meet for special projects</li>
+			</ul>	
+		</li>
 	</ul>
 </div>
-
-
-March
-Hold orientation sessions and kickoff meetings
-Host fundraiser
-Start seeds for summer crops
-
-April
-Workdays begin
-Build and paint signs
-Repair/rebuild beds
-Spread soil
-Set up rain barrels
-Compost opens
-
-May
-Direct sow spring crops
-Plant seedlings for summer crops
-
-June
-Christopher House and Kids table weekly program in the garden begins
-Logan Square Arts Fest
-Potluck with Christopher House and Kids Table
-Weed!
-Harvest spring crops
-
-July
-Begin treating for pests
-Harvest summer crops
-Plant late summer/fall crops
-
-August
-Potluck with Christopher House and Kids Table
-Harvest summer crops
-Harvest and cure garlic
-Plant late summer/fall crops
-
-September
-Harvest fall crops
-
-October
-Compost closes
-Remove/trim back remaining plants
-Plant garlic for next year
-Cover beds with mulch/hay
-Empty and store rain barrels 
-
-November
-Take a break!
-
-December
-Meet for special projects
