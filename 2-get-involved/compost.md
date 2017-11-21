@@ -2,10 +2,10 @@
 layout: get-involved-pages
 title: Compost
 permalink: /compost/
----
+--- 
 
-# Compost is CLOSED for the season. See you in the spring! 
----
+<p class="quote text-center">Compost is <b>CLOSED</b> for the season.<br> 
+	See you in the spring!</p>
 
 # Community compost 
 
