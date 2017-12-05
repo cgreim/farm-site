@@ -84,7 +84,7 @@ h6 {
 	padding-left: 40px;
 
 	h3{
-		color: #333;
+		color:$gray;;
 	}
 
 	ol,ul{
@@ -188,7 +188,7 @@ figcaption{
 //
 footer {
 	background: $gray;
-	margin-top: 3*$spacer;
+	//margin-top: 3*$spacer;
 	h4,h6,a,p,label{
 		color: $white;
 	}
