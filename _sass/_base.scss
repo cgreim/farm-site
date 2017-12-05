@@ -58,6 +58,54 @@ h6 {
 
 
 //
+// Homepage
+//
+#jumbotron-home {
+	background: url("images/home-splash.jpg") no-repeat center center;
+	background-size: cover;
+	height:100vh;
+	padding-top: 180px;
+	margin-bottom: 0px;
+
+	h1,p{
+		color:white;
+
+	}
+
+	p{
+		font-size: 18px;
+	}
+}
+
+
+.sidebar{
+	background-color: $pink;
+	padding-top: 24px;
+	padding-left: 40px;
+
+	h3{
+		color:$gray;;
+	}
+
+	ol,ul{
+	list-style: none;
+	padding-left:0;
+	}
+
+	li{
+		color: white;
+		font-size: 14px;
+		font-weight:400;
+	}
+
+	ol>li{
+		font-weight: 700;
+		padding-top:10px;
+	}
+}
+
+
+//
 // About Pages
 //
 .jumbotron {
@@ -140,7 +188,7 @@ figcaption{
 //
 footer {
 	background: $gray;
-	margin-top: 3*$spacer;
+	//margin-top: 3*$spacer;
 	h4,h6,a,p,label{
 		color: $white;
 	}
