@@ -138,8 +138,9 @@ figcaption{
 //
 // Footer
 //
-footer.new {
+footer {
 	border-top: 2px dotted $pink;
+	position: relative;
 
 	.social {
 		list-style-type: none;
@@ -148,6 +149,15 @@ footer.new {
 		li {
 			display: inline-block;;
 		}
+	}
+
+	&:before {
+		content: url(images/carrot.svg);
+		border-radius: 50%;
+		top: -30px;
+		left: 50%;
+		margin-left: -20px;
+		position: absolute;
 	}
 }
 
