@@ -187,22 +187,45 @@ figcaption{
 // Footer
 //
 footer {
-	background: $gray;
-	//margin-top: 3*$spacer;
-	h4,h6,a,p,label{
-		color: $white;
+	border-top: 2px dotted $pink;
+	position: relative;
+
+	.social {
+		list-style-type: none;
+		padding-left: 0px;
+
+		li {
+			display: inline-block;;
+		}
 	}
 
-	ul{
-		margin-bottom:0.2rem;
-	}
-
-	li>ul>li>a{
-		padding-left:0.5rem;
-		font-size:0.85rem;
-	}
-
-	li:first-child{
-		color:$pink;
+	&:before {
+		content: url(images/carrot.svg);
+		border-radius: 50%;
+		top: -30px;
+		left: 50%;
+		margin-left: -20px;
+		position: absolute;
 	}
 }
+
+// footer {
+// 	background: $gray;
+// 	margin-top: 3*$spacer;
+// 	h4,h6,a,p,label{
+// 		color: $white;
+// 	}
+//
+// 	ul{
+// 		margin-bottom:0.2rem;
+// 	}
+//
+// 	li>ul>li>a{
+// 		padding-left:0.5rem;
+// 		font-size:0.85rem;
+// 	}
+//
+// 	li:first-child{
+// 		color:$pink;
+// 	}
+// }
