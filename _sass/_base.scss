@@ -21,6 +21,13 @@ h6 {
 	font-weight: 700;
 }
 
+.jumbotron {
+	background: url("images/about-header.jpeg") no-repeat center center;
+	background-size: cover;
+	padding-bottom:0;
+	padding-top:3*$spacer;
+}
+
 //
 // Header
 //
@@ -54,6 +61,10 @@ h6 {
 	.logo {
 		height: 35px;
 	}
+}
+
+.dropdown:hover>.dropdown-menu {
+  display: block;
 }
 
 
@@ -106,23 +117,8 @@ h6 {
 
 
 //
-// About Pages
+// Content
 //
-.jumbotron {
-	background: url("images/about-header.jpeg") no-repeat center center;
-	background-size: cover;
-	padding-bottom:0;
-	padding-top:3*$spacer;
-}
-
-.highlight-text {
-	text-transform: uppercase;
-	color: $pink;
-	background-color: $white;
-	padding: $spacer;
-	display: inline-block;
-}
-
 article {
 	h1,
 	h2,
@@ -150,11 +146,52 @@ figcaption{
 	color:#999;
 }
 
+
+//
+// About Pages
+//
+#jumbotron-about {
+	background: url("images/about-header.jpeg") no-repeat center center;
+}
+
+.highlight-text {
+	text-transform: uppercase;
+	color: $pink;
+	background-color: $white;
+	padding: $spacer;
+	display: inline-block;
+}
+
 .quote{
 	font-size:24px;
 	color:green;
 	padding: 30px 50px;
 	border:$pink 1px solid;
+}
+
+//
+// Get Involved
+//
+#jumbotron-get-involved{
+	background: url("images/compost-header.jpg") no-repeat center center;
+
+}
+
+//
+// Resources
+//
+#jumbotron-resources{
+	background: url("images/home-splash.jpg") no-repeat center center;
+
+}
+
+//
+// Calendar
+//
+#jumbotron-calendar{
+	background: url("images/tomato_tower.jpg") no-repeat center center;
+	background-size: cover;
+
 }
 
 //
@@ -182,6 +219,7 @@ figcaption{
 		background-color: red;
 	}
 }
+
 
 //
 // Footer
