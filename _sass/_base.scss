@@ -28,6 +28,10 @@ h6 {
 	padding-top:3*$spacer;
 }
 
+.bg-gray{
+	background:#ddd
+}
+
 //
 // Header
 //
@@ -176,6 +180,14 @@ figcaption{
 	background: url("images/compost-header.jpg") no-repeat center center;
 
 }
+
+img{
+	width:100%;
+}
+
+
+
+
 
 //
 // Resources
