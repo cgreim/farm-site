@@ -8,8 +8,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, n
 
 <a href="{{ site.url }}/volunteering/" role="button" class="btn btn-primary btn-lg">Sign Up</a>
 
-
-
 # Month at a Glance
 
 Cras convallis leo nisl. Ut at feugiat lorem, at egestas tortor. Maecenas sit amet dignissim lorem, eget eleifend sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
@@ -17,30 +15,30 @@ Cras convallis leo nisl. Ut at feugiat lorem, at egestas tortor. Maecenas sit am
 <div class="bg-gray">
 	<div class="container">
 		<div class="row ">
-			<img src="http://via.placeholder.com/800x600/4693DB/ffffff?text=Placeholder+Monthly+Calendar" alt="Month at a Glance" id="monthCal" />
-			<div class="row">
-				<div class="activity col-md-6" id="workdays">
-					<span class="icon"></span>
-					<h5>Workdays</h5>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, nisl vitae porttitor viverra, dui purus sodales purus, sed dignissim purus velit a risus. Aliquam erat volutp	at.</p>
-				</div>
-				<div class="activity col-md-6" id="communityNights">
-					<span class="icon"></span>
-					<h5>Community Nights</h5>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, nisl vitae porttitor viverra, dui purus sodales purus, sed dignissim purus velit a risus. Aliquam erat volutpat.</p>
-				</div>
+			<img src="{{ site.url }}/assets/images/month-glance.png" alt="Month at a Glance" id="monthCal" />
+		</div>
+		<div class="row">
+			<div class="activity col-md-6" id="workdays">
+				<span class="icon"></span>
+				<h5>Workdays</h5>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, nisl vitae porttitor viverra, dui purus sodales purus, sed dignissim purus velit a risus. Aliquam erat volutp	at.</p>
 			</div>
-			<div class="row">
-				<div class="activity col-md-6" id="teamWeek">
-					<span class="icon"></span>
-					<h5>Team Watering Week</h5>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, nisl vitae porttitor viverra, dui purus sodales purus, sed dignissim purus velit a risus. Aliquam erat volutpat.</p>
-				</div>
-				<div class="activity col-md-6" id="christopherHouse">
-					<span class="icon"></span>
-					<h5>Christopher House</h5>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, nisl vitae porttitor viverra, dui purus sodales purus, sed dignissim purus velit a risus. Aliquam erat volutpat.</p>
-				</div>
+			<div class="activity col-md-6" id="communityNights">
+				<span class="icon"></span>
+				<h5>Community Nights</h5>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, nisl vitae porttitor viverra, dui purus sodales purus, sed dignissim purus velit a risus. Aliquam erat volutpat.</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="activity col-md-6" id="teamWeek">
+				<span class="icon"></span>
+				<h5>Team Watering Week</h5>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, nisl vitae porttitor viverra, dui purus sodales purus, sed dignissim purus velit a risus. Aliquam erat volutpat.</p>
+			</div>
+			<div class="activity col-md-6" id="christopherHouse">
+				<span class="icon"></span>
+				<h5>Christopher House</h5>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, nisl vitae porttitor viverra, dui purus sodales purus, sed dignissim purus velit a risus. Aliquam erat volutpat.</p>
 			</div>
 		</div>
 	</div>
@@ -50,7 +48,7 @@ Cras convallis leo nisl. Ut at feugiat lorem, at egestas tortor. Maecenas sit am
 
 #### Team Members
 
-Altgeld Sawyer is divided into four teams of 8-10 farmers. Each team works together to tend their group of ~8 beds. Teams also support general farm activities and maintenance. 
+Altgeld Sawyer is divided into four teams of 8-10 farmers. As a team member, you will work with your team to plant, water, and tend to your team's group of ~8 vegetable beds. Teams also support general farm activities and maintenance. 
 
 <div class="card-deck">
   <div class="card">
@@ -211,11 +209,3 @@ Phasellus sit amet lorem varius, tempor urna eu, imperdiet ipsum. Nam aliquet lu
     </div>
   </div>
 </div>
-
----
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, nisl vitae porttitor viverra, dui purus sodales purus, sed dignissim purus velit a risus. Aliquam erat volutpat. Morbi tempor sed magna nec faucibus. Duis elementum nisl ut nisl tincidunt sollicitudin. Nullam mattis vitae sapien ut condimentum. Ut sit amet nulla pharetra, rhoncus dui ut, commodo nunc. Nulla facilisi. Nam a lacus congue, suscipit tellus eu, vulputate mi. Etiam et feugiat lacus. Suspendisse leo mi, cursus ac lorem eu, mollis malesuada tortor. Integer nisi odio, convallis vitae magna ut, consequat aliquam velit. Donec pellentesque massa placerat tortor mollis lobortis. Nullam varius leo justo, sed accumsan eros tristique commodo. Sed eget tortor vitae risus ullamcorper imperdiet.
-
-In vel risus nisi. Cras convallis leo nisl. Ut at feugiat lorem, at egestas tortor. Maecenas sit amet dignissim lorem, eget eleifend sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut ligula eros, porttitor viverra velit eleifend, commodo tempus mauris. Morbi eu molestie mi, vitae imperdiet massa. Sed laoreet sodales dictum. Sed eleifend tincidunt dolor, vel pulvinar urna dignissim ut. Aliquam dapibus lobortis condimentum. Nulla scelerisque ut ipsum pharetra semper. Suspendisse sed diam nunc. Fusce luctus volutpat vulputate. In sit amet quam quis augue tincidunt dictum a ac enim. Fusce varius maximus mi semper rutrum. Etiam scelerisque sagittis gravida.
-
-Phasellus sit amet lorem varius, tempor urna eu, imperdiet ipsum. Nam aliquet luctus laoreet. Fusce orci mauris, tristique eget ex at, fringilla ornare urna. Curabitur lobortis feugiat diam, non bibendum libero rutrum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vestibulum ligula diam, quis gravida nibh fermentum non. Proin fringilla turpis non dolor blandit, quis iaculis dui pretium. Praesent consectetur felis vel tincidunt laoreet. Nunc bibendum nibh et venenatis pretium. Sed varius est commodo nisi porta pharetra vulputate in lectus. Mauris volutpat porttitor consectetur. Donec et leo mi. Aenean a est sagittis, pretium felis ut, hendrerit turpis. Aliquam nec scelerisque leo, quis fermentum dui. Morbi in tristique sapien.
