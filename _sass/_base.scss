@@ -37,6 +37,13 @@ h6 {
     padding: 40px 0;
 }
 
+.alert-danger{
+	font-size:24px;
+	background-color:#D8672B;
+	color:white;
+	padding: 30px 50px;
+}
+
 //
 // Header
 //
@@ -137,7 +144,7 @@ article {
 	h6 {
 		color: $pink;
 		text-transform: uppercase;
-		margin-top:40px;
+		padding-top:40px;
 	}
 
 	hr {
@@ -228,8 +235,25 @@ figcaption{
 	background: #E9168C;
 }
 
+.infoBox{
+	border: 1px solid #1AA182;
+	padding:10px 15px;
+	height:100%;
 
+	h5{
+		padding:0;
+		color:#000;
+		font-size:18px;
+	}
 
+	ul{
+		margin-bottom:0;
+		line-height:1.8;
+		list-style-position:inside;
+		padding-left:0px;
+	}
+
+}
 
 
 
