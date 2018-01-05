@@ -4,45 +4,53 @@ title: Volunteering
 permalink: /volunteering/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, nisl vitae porttitor viverra, dui purus sodales purus, sed dignissim purus velit a risus.
+We're always looking for new volunteers! Fill out our sign up form and let us know what you're interested in, and someone from our team will be in touch. 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScEcfSth4Z-ItikdXXfxEAqy89jpB2A8qrSHoXGnBhNfuIWAA/viewform" target="_blank" role="button" class="btn btn-primary btn-lg">Volunteer Sign Up</a>
 
-<a href="{{ site.url }}/volunteering/" role="button" class="btn btn-primary btn-lg">Sign Up</a>
+For groups interested in volunteering, email us at cornerfarmchicago@gmail.com. 
 
 # Month at a Glance
 
-Cras convallis leo nisl. Ut at feugiat lorem, at egestas tortor. Maecenas sit amet dignissim lorem, eget eleifend sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
+This is what a typical month at the farm looks like during our growing season, from May to October. If you want to drop by and talk to our volunteers, the best times to find us are Wednesdays at Community Night and Saturdays during Workdays -- come say hi! 
 
 <div class="bg-gray">
 	<div class="container">
-		<div class="row ">
+		<div class="row">
 			<img src="{{ site.url }}/assets/images/month-glance.png" alt="Month at a Glance" id="monthCal" />
 		</div>
 		<div class="row">
 			<div class="activity col-md-6" id="workdays">
 				<span class="icon"></span>
 				<h5>Workdays</h5>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, nisl vitae porttitor viverra, dui purus sodales purus, sed dignissim purus velit a risus. Aliquam erat volutp	at.</p>
+				<p><strong>Saturdays, 10AM - 1PM</strong><br>
+          Every other Saturday, farmers tend team beds and tackle bigger projects at the farm.
+        </p>
 			</div>
 			<div class="activity col-md-6" id="communityNights">
 				<span class="icon"></span>
 				<h5>Community Nights</h5>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, nisl vitae porttitor viverra, dui purus sodales purus, sed dignissim purus velit a risus. Aliquam erat volutpat.</p>
-			</div>
+        <p><strong>Wednesdays, 6PM - Sunset</strong><br>
+				  Community compost is open, farmers gather to do light gardening work, everyone is welcome! </p>
+          </div>
 		</div>
 		<div class="row">
 			<div class="activity col-md-6" id="teamWeek">
 				<span class="icon"></span>
-				<h5>Team Watering Week</h5>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, nisl vitae porttitor viverra, dui purus sodales purus, sed dignissim purus velit a risus. Aliquam erat volutpat.</p>
+				<h5>Team Week</h5>
+        <p><strong>Rotating, 1 week/month</strong><br>
+          Each team is responsible for watering the garden and running compost at Community Night during one week each month. </p>
 			</div>
 			<div class="activity col-md-6" id="christopherHouse">
 				<span class="icon"></span>
 				<h5>Christopher House</h5>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, nisl vitae porttitor viverra, dui purus sodales purus, sed dignissim purus velit a risus. Aliquam erat volutpat.</p>
+				<p><strong>Tuesday mornings</strong><br>
+          Students join farmers to learn about what's growing at the farm and harvest vegetables for the Christopher House food pantry.
+           </p>
 			</div>
 		</div>
 	</div>
 </div>
+
 
 # Volunteer Roles
 
