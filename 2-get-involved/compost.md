@@ -15,12 +15,12 @@ We ask that neighbors respect the Wednesday drop off time, as our compost space 
 
 Our composters turn your food scraps into soil used to improve beds at the garden, increasing our yields and the amount of food we can give to Christopher House’s food pantry.
 
-### Scraps we accept
+### Compost with Us
 
 <div class="row mb-4">
 	<div class="col-xl-6">
 		<div class="infoBox">
-		<h5>Good Compost Ingredients:</h5>
+		<h5>Bring these:</h5>
 		<ul>
 			<li>Fruit and vegetable scraps</li>
 			<li>Fallen leaves (dry)</li>
@@ -34,7 +34,7 @@ Our composters turn your food scraps into soil used to improve beds at the garde
 	</div>
 	<div class="col-xl-6">
 		<div class="infoBox">
-		<h5>Never, ever bring:</h5>
+		<h5>We can't accept:</h5>
 		<ul>
 			<li>Cooked food of any kind</li>
 			<li>Meat, fish, bones, or animal parts</li>
@@ -58,39 +58,4 @@ Our composters turn your food scraps into soil used to improve beds at the garde
 	</div>
 </div>
 
-### Troubleshooting Guide
-
-<table class="table">
-	<colgroup>
-    	<col style="width:35%">
-    	<col style="width:65%">
-  	</colgroup>
-  <thead>
-    <tr>
-      <th>Symptom</th>
-      <th>Cause/Solution</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>So many flies!</td>
-      <td>Not enough browns, and/or needs to be stirred.</td>
-    </tr>
-    <tr>
-      <td>Worms are trying to escape</td>
-      <td>Too wet, too dry, or too hot. If too hot/dry, turn and add some water. The compost should be about as wet as a wrung out sponge; damp but not soaking.</td>
-    </tr>
-    <tr>
-      <td>Bad odor—like rancid butter, vinegar, or rotten eggs</td>
-      <td>Not enough oxygen, too wet, or too compacted. Turn the pile and add coarse dry materials such as leaves, straw, or corn stalks to soak up excessive moisture.</td>
-    </tr>
-    <tr>
-      <td>Bad odor—like ammonia</td>
-      <td>Too much nitrogen. Add materials high in carbon (such as shredded leaves, nontreated wood chips, sawdust, or shredded newsprint) and aerate.</td>
-    </tr>
-    <tr>
-      <td>Compost pile has earwigs, slugs, and/or other insects</td>
-      <td>All good! Insects are a good sign of a productive compost pile.</td>
-    </tr>
-  </tbody>
-</table>
+Have your own compost system at home and having some trouble? Check out our [compost troubleshooting guide]({{site.url}}/volunteers) for some tips!

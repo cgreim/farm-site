@@ -16,7 +16,7 @@ This is what a typical month at the farm looks like during our growing season, f
 <div class="bg-gray">
 	<div class="container">
 		<div class="row">
-			<img src="{{ site.url }}/assets/images/month-glance.png" alt="Month at a Glance" id="monthCal" />
+			<img src="{{ site.url }}/assets/images/month-glance.png" alt="Month at a Glance" id="monthCal"/>
 		</div>
 		<div class="row">
 			<div class="activity col-md-6" id="workdays">
