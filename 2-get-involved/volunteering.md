@@ -15,7 +15,7 @@ Cras convallis leo nisl. Ut at feugiat lorem, at egestas tortor. Maecenas sit am
 <div class="bg-gray">
 	<div class="container">
 		<div class="row ">
-			<img src="{{ site.url }}/assets/images/month-glance.png" alt="Month at a Glance" id="monthCal" />
+			<img src="{{ site.url }}/assets/images/month-glance.png" alt="Month at a Glance" id="monthCal"/>
 		</div>
 		<div class="row">
 			<div class="activity col-md-6" id="workdays">
