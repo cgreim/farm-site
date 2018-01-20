@@ -22,6 +22,11 @@ h6 {
 	font-weight: 700;
 }
 
+
+.btn{
+	text-decoration:none;
+}
+
 .jumbotron {
 	background: url("images/about-header.jpeg") no-repeat center center;
 	background-size: cover;
@@ -43,6 +48,11 @@ h6 {
 	color:white;
 	padding: 30px 50px;
 }
+
+.img-small{
+	width:250px;
+}
+
 
 //
 // Header
@@ -152,6 +162,10 @@ article {
 		margin-top: 3*$spacer;
 		margin-bottom: 3*$spacer;
 	}
+
+	a{
+		text-decoration: underline;
+	}
 }
 
 figure>img{
@@ -173,10 +187,11 @@ figcaption{
 
 .highlight-text {
 	text-transform: uppercase;
-	color: $pink;
-	background-color: $white;
+	color: $white;
+	background-color: $pink;
 	padding: $spacer;
 	display: inline-block;
+	letter-spacing: 4px;
 }
 
 .quote{
