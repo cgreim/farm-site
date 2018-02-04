@@ -11,7 +11,7 @@ Map goes here!
 
 ## Our Approach
 
-test Altgeld Sawyer Corner Farm is a teaching and learning garden, and we grow vegetables for our community.
+Altgeld Sawyer Corner Farm is a teaching and learning garden, and we grow vegetables for our community.
 
 Each team of gardeners is responsible for collectively tending a set of beds. We look for a mix of experience when making teams, so whether you're a seasoned gardener or this is your first season growning, we welcome you! Visit our [Volunteering page]({{ site.url }}/volunteering/) to learn more and sign up.
 
