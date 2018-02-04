@@ -1,0 +1,59 @@
+//
+// Color Palette
+//
+$salmonred: #FC6563;
+$shadownavy: #2D3A47;
+$gravelgray: #D5DDE4;
+$eggshellwhite: #FAFAFA;
+$fountainblue: #99D5C9;
+$mossgreen: #83B692;
+$claybrown: #A5978B;
+
+
+//
+// Button mods
+//
+.ascf-button--salmon {
+  @extend .ds-c-button;
+  @extend .ds-c-button--primary;
+  background-color: $salmonred !important;
+  box-shadow: 0px 4px 0 #000;
+}
+
+
+//
+// Header
+//
+header {
+  background-color: $eggshellwhite;
+
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+
+  .logo {
+    height: 65px;
+  }
+
+  .main-nav {
+    display: flex;
+    flex-wrap: wrap;
+
+    li {
+      #about-dropdown { display: none; }
+      #about-dropdown-trigger { position: relative; }
+
+      &:hover {
+        #about-dropdown {
+          display: block;
+          position: absolute;
+        }
+      }
+    }
+
+    .dropdown {
+      background: $eggshellwhite;
+    }
+  }
+}

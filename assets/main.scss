@@ -1,7 +1,9 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+@import 'normalize';
 @import url('https://fonts.googleapis.com/css?family=Montserrat:200,400,400i,700');
-@import "variables";
-@import "bootstrap/scss/bootstrap";
-@import "base";
+@import 'variable-overrides';
+@import '@cmsgov/design-system-core/src/index';
+@import '@cmsgov/design-system-layout/src/index';
+@import 'v2-redesign';
