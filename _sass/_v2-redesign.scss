@@ -64,7 +64,7 @@ $claybrown: #A5978B;
 //
 .page-header { background-position: center center; }
 
-  // Background photos
+// Background photos
 .cabbage-background { background-image: url(../assets/images/about-header.jpg); }
 .compost-background { background-image: url(../assets/images/compost-header.jpg); }
 
@@ -80,5 +80,13 @@ article {
   img {
     width: 100%;
     height: auto;
+  }
+
+  figure {
+    margin: 0px !important;
+    figcaption {
+      font-size: 14px;
+      font-style: italic;
+    }
   }
 }
