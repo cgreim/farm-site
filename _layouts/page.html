@@ -1,22 +1,26 @@
 ---
 layout: default
 ---
-<div class="jumbotron jumbotron-fluid">
-  <div class="container">
-    <h1 class="display-3">{{ page.title | escape }}</h1>
-      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    </p>
-    <p class="lead">Sed sit amet aliquam mi. Vestibulum in massa non dolor sollicitudin suscipit. Nam a lacus orci. Duis.
-    </p>
-  </div>
-</div>
-
-<div class="container">
-  <div class="row">
-    <div class="col">
-      <p>
-        {{ content }}
-      </p>
+<header class="page-header {{ page.background-photo }} ds-u-padding-y--6">
+  <div class="ds-l-container">
+    <div class="ds-l-row">
+      <h1 class="ds-display ds-u-padding-x--2">{{ page.title | escape }}</h1>
     </div>
   </div>
-</div>
+</header>
+
+<section class="ds-l-container preview__grid">
+  <div class="ds-l-row">
+    <article class="ds-l-col--8">
+      {{ content }}
+    </article>
+
+    <aside class="ds-l-col--4">
+      <nav>
+        <ul>
+          <li><a href="#">I'm a sidebar link</a></li>
+        </ul>
+      </nav>
+    </aside>
+  </div>
+</section>

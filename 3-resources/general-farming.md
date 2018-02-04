@@ -1,5 +1,5 @@
 ---
-layout: resources-pages
+layout: page
 title: General Farming
 permalink: /general-farming/
 ---
@@ -12,10 +12,10 @@ Gardening can be a bit daunting (because *living things*), but it is not particu
 
 ## Watering
 
-The rule of thumb for watering plants is 1” water per week. An easy way to measure this is to put a tuna can in the area you’re watering. When there’s 1” of water in the tuna can, congratulations – you’re done. When it rains a lot, congratulations – there’s your inch. You may need to supplement in drier conditions or when it’s very hot. 
-You’re better off watering deeply once a week (really hitting that full inch – which definitely takes longer than you think it does), rather than several times a week more shallowly. If plants are getting little bits of water in spurts, their roots will stay at the surface (where you’re watering), which is also the first part of the soil to dry out. So they’ll be more susceptible to drying out and the bad things that come along with that (see: diseases, below). Watering deeply encourages them to set deep roots, which means they’re better able to withstand periods between rain storms or when you go on vacation. 
+The rule of thumb for watering plants is 1” water per week. An easy way to measure this is to put a tuna can in the area you’re watering. When there’s 1” of water in the tuna can, congratulations – you’re done. When it rains a lot, congratulations – there’s your inch. You may need to supplement in drier conditions or when it’s very hot.
+You’re better off watering deeply once a week (really hitting that full inch – which definitely takes longer than you think it does), rather than several times a week more shallowly. If plants are getting little bits of water in spurts, their roots will stay at the surface (where you’re watering), which is also the first part of the soil to dry out. So they’ll be more susceptible to drying out and the bad things that come along with that (see: diseases, below). Watering deeply encourages them to set deep roots, which means they’re better able to withstand periods between rain storms or when you go on vacation.
 
-Watering (ironically) is also one of the better ways to spread plant diseases. As much as you can, water at the base of the plant, limiting splash up onto leaves. It’s also good to make sure that plants go to bed dry. Wet leaves at night are good hosts for diseases, so always try to water in the early part of the day when the leaves have time to dry (but not in the middle of the day, when everything just evaporates). Also try not to handle your plants when they’re wet – wait for a dry day to harvest so that your hands aren’t taking things between plants. 
+Watering (ironically) is also one of the better ways to spread plant diseases. As much as you can, water at the base of the plant, limiting splash up onto leaves. It’s also good to make sure that plants go to bed dry. Wet leaves at night are good hosts for diseases, so always try to water in the early part of the day when the leaves have time to dry (but not in the middle of the day, when everything just evaporates). Also try not to handle your plants when they’re wet – wait for a dry day to harvest so that your hands aren’t taking things between plants.
 
 ## Plants
 
@@ -23,13 +23,13 @@ If you’re new to gardening, you’re almost bound to have a great season. You�
 
 #### Plant families
 
-Most of your eatin’ plants can be divided into the following categories: Allium (onions, garlic), Brassica (kale, broccoli, cabbages), Legumes (beans, peas), Nightshades (tomatoes, potatoes, peppers, and eggplants), and Cucurbits (cukes, melons and squashes). 
+Most of your eatin’ plants can be divided into the following categories: Allium (onions, garlic), Brassica (kale, broccoli, cabbages), Legumes (beans, peas), Nightshades (tomatoes, potatoes, peppers, and eggplants), and Cucurbits (cukes, melons and squashes).
 
 #### Seeds vs. Seedlings
 
 Some plants grow better from direct seeding, while others can get a jumpstart by being started earlier in a greenhouse and planted as seedlings. Can you put a tomato seed right in the ground? Absolutely. Can you also spend $3 to get an awesome little seedling that’s already 8” tall? Yup. 	
 
-Some Plants best grown from direct seeding: 
+Some Plants best grown from direct seeding:
 - Radishes
 - Beets
 - Peas
@@ -59,9 +59,9 @@ The biggest thing is checking into the plants you want to grow to see when they 
 
 #### Types
 
-That being said, there are varieties of plants (particularly seeds) you can buy that have been bred to handle conditions. There is ‘slow bolting’ cilantro that can handle summer temps a bit better, and there are tomatoes that are bred to be better adapted to the cold. 
+That being said, there are varieties of plants (particularly seeds) you can buy that have been bred to handle conditions. There is ‘slow bolting’ cilantro that can handle summer temps a bit better, and there are tomatoes that are bred to be better adapted to the cold.
 
-You may also want to choose plants to fit the space. In particular, there are two kinds of tomatoes: determinate and indeterminate. Determinate tomatoes will only grow to a certain size, and will set tomatoes all at once. Indeterminate tomatoes will continue to grow throughout their life cycle and will set tomatoes over a few weeks. Most tomatoes you will find are indeterminate. 
+You may also want to choose plants to fit the space. In particular, there are two kinds of tomatoes: determinate and indeterminate. Determinate tomatoes will only grow to a certain size, and will set tomatoes all at once. Indeterminate tomatoes will continue to grow throughout their life cycle and will set tomatoes over a few weeks. Most tomatoes you will find are indeterminate.
 
 #### Disease resistance and drought tolerance
 
@@ -69,7 +69,7 @@ Hot + sad dry plants = more susceptibility to disease. Look on your seed  packet
 
 #### Selecting seedlings
 
-When selecting seedlings, look for compact, healthy-looking plants. Check for any yellowing or browning leaves, insects or insect damage. Plants that are overly tall and gangly are called 'leggy.' They didn’t get enough sunlight as children, and will be delinquents. If you don’t like the looks of the plant, don’t buy it. 
+When selecting seedlings, look for compact, healthy-looking plants. Check for any yellowing or browning leaves, insects or insect damage. Plants that are overly tall and gangly are called 'leggy.' They didn’t get enough sunlight as children, and will be delinquents. If you don’t like the looks of the plant, don’t buy it.
 
 #### Planting
 
@@ -77,7 +77,7 @@ There are about a million guides for when to plant (Google around), but this cha
 
 #### Spacing
 
-Most seed packets and seedling containers will tell you how far apart to plant your seedlings. You can probably go a little closer than they recommend, but don’t go crazy. You can have 25 awesome carrots or 50 tiny, weird carrots. If you’re planting seeds, pay attention to the thinning recommendations – and make sure to do it. 
+Most seed packets and seedling containers will tell you how far apart to plant your seedlings. You can probably go a little closer than they recommend, but don’t go crazy. You can have 25 awesome carrots or 50 tiny, weird carrots. If you’re planting seeds, pay attention to the thinning recommendations – and make sure to do it.
 
 Think carefully about your space, with a focus on how large your plants will get. Put another way, don’t look at the puppy, look at the size of the momma dog. You will be tricked by cute tomato seedlings, but the grown plants can reach more than 4' tall. You’ll have healthier plants (and likely more production) from a plant that has adequate space for airflow, etc.
 
@@ -95,11 +95,11 @@ The thing people always want to do, but have trouble actually doing. In theory, 
 
 #### Planting seedlings
 
-**Break up the root ball.** Seedlings grown in containers have roots that will conform to the shape of the container. When you pop out your seedling to plant in the ground, make sure you gently break apart the shape and spread the roots out a bit. If they are really rootbound  (tough and circling roots), you can make vertical cuts on the sides of the roots or even cut the bottom of the root ball off. If you don’t help the roots grow out into the ground, they will actually stay in that shape, which will hurt their stability and water uptake. 
+**Break up the root ball.** Seedlings grown in containers have roots that will conform to the shape of the container. When you pop out your seedling to plant in the ground, make sure you gently break apart the shape and spread the roots out a bit. If they are really rootbound  (tough and circling roots), you can make vertical cuts on the sides of the roots or even cut the bottom of the root ball off. If you don’t help the roots grow out into the ground, they will actually stay in that shape, which will hurt their stability and water uptake.
 
 #### Deep planting
 
-Most plants should be planted at the same level as they arrive in the container. The exceptions are tomatoes and basil. With these guys, you can clip off all but the top few leaves and bury the stem right up to those leaves. The plants will grow roots all along the buried stem, helping the plants get more water and increasing their stability. 
+Most plants should be planted at the same level as they arrive in the container. The exceptions are tomatoes and basil. With these guys, you can clip off all but the top few leaves and bury the stem right up to those leaves. The plants will grow roots all along the buried stem, helping the plants get more water and increasing their stability.
 
 ---
 
@@ -147,19 +147,19 @@ Hopefully, most of the insects you’ll see around the garden will be pollinator
 	</div>
 </div>
 
-If you see a bug you don’t recognize, research them. Don't necessarily kill every bug you see – many of them are beneficial. 
+If you see a bug you don’t recognize, research them. Don't necessarily kill every bug you see – many of them are beneficial.
 
 ---
 
 ## Advanced Placement
 
-##### Companion planting	
+##### Companion planting
 
-As mentioned above, companion planting can be a good way to plan out your garden. You can even eliminate the need for mulches through dense planting that uses various plants' sizes and relationships to make your garden healthy. This requires quite a bit of planning, but results in beautiful and high yields when pulled off. [Here’s a good book](https://www.amazon.com/Carrots-Love-Tomatoes-Companion-Successful/dp/1580170277) on the topic. 
+As mentioned above, companion planting can be a good way to plan out your garden. You can even eliminate the need for mulches through dense planting that uses various plants' sizes and relationships to make your garden healthy. This requires quite a bit of planning, but results in beautiful and high yields when pulled off. [Here’s a good book](https://www.amazon.com/Carrots-Love-Tomatoes-Companion-Successful/dp/1580170277) on the topic.
 
 #### Square food gardening
 
-[Square food gardening](https://en.wikipedia.org/wiki/Square_foot_gardening) uses spacing and strict planting patterns to achieve high yields in small spaces. Depending on its size, each crop is assigned a number of the item you can fit per 1ft x 1ft square. 
+[Square food gardening](https://en.wikipedia.org/wiki/Square_foot_gardening) uses spacing and strict planting patterns to achieve high yields in small spaces. Depending on its size, each crop is assigned a number of the item you can fit per 1ft x 1ft square.
 
 <figure class="float-left img-small mx-3">
 	<img src="{{ site.url }}/assets/images/sq-ft-garden.jpg" alt="Square Foot Gardening"/>
@@ -167,4 +167,3 @@ As mentioned above, companion planting can be a good way to plan out your garden
 </figure>
 
 There are numerous resources out there about the practice, both online and in print. The [original book](https://www.amazon.com/Square-Foot-Gardening-Garden-Space/dp/1579548563) remains the best resource.
-
