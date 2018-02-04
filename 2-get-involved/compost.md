@@ -1,15 +1,15 @@
 ---
-layout: get-involved-pages
+layout: page
 title: Compost
 permalink: /compost/
---- 
+---
 
-<p class="alert-danger text-center">Compost is <b>CLOSED</b> for the season.<br> 
+<p class="alert-danger text-center">Compost is <b>CLOSED</b> for the season.<br>
 	See you in the spring!</p>
 
-# Community Compost 
+# Community Compost
 
-Altgeld Sawyer Corner Farm accepts compostable scraps during our Wednesday Community Nights. Compost is open May through October, 6PM 'til sundown. 
+Altgeld Sawyer Corner Farm accepts compostable scraps during our Wednesday Community Nights. Compost is open May through October, 6PM 'til sundown.
 
 We ask that neighbors respect the Wednesday drop off time, as our compost space is limited and we need our volunteers to accept and sort scraps for composting. No dumping—thanks!
 
