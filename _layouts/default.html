@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="ds-base">
 
     {% include header.html %}
 
@@ -14,14 +14,6 @@
 	<script src="{{ '/node_modules/jquery/dist/jquery.min.js'  | prepend: site.url }}"></script>
 	<script src="{{ '/node_modules/tether/dist/js/tether.min.js'  | prepend: site.url }}"></script>
 	<script src="{{ '/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.url }}"></script>
-
-	<!-- main menu navigation shows on hover -->
-	<script src="$('body').on('mouseenter mouseleave','.dropdown',function(e){
-  var _d=$(e.target).closest('.dropdown');_d.addClass('show');
-  setTimeout(function(){
-    _d[_d.is(':hover')?'addClass':'removeClass']('show');
-  },800);
-});"></script>
 
   </body>
 

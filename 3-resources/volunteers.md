@@ -1,5 +1,5 @@
 ---
-layout: resources-pages
+layout: page
 title: CFC Volunteers
 permalink: /volunteers/
 ---

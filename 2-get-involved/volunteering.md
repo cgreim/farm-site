@@ -1,17 +1,17 @@
 ---
-layout: get-involved-pages
+layout: page
 title: Volunteering
 permalink: /volunteering/
 ---
 
-We're always looking for new volunteers! We recruit farmers in early spring for the upcoming season, but you can plug in any time. Fill out our sign up form and let us know what you're interested in, and someone from our team will be in touch.<br> 
+We're always looking for new volunteers! We recruit farmers in early spring for the upcoming season, but you can plug in any time. Fill out our sign up form and let us know what you're interested in, and someone from our team will be in touch.<br>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcfSth4Z-ItikdXXfxEAqy89jpB2A8qrSHoXGnBhNfuIWAA/viewform" target="_blank" role="button" class="btn btn-primary btn-lg">Volunteer Sign Up</a>
 
-For groups interested in volunteering, email us at cornerfarmchicago@gmail.com. 
+For groups interested in volunteering, email us at cornerfarmchicago@gmail.com.
 
 # Month at a Glance
 
-This is what a typical month at the farm looks like during our growing season, from May to October. If you want to drop by and talk to our farmers, the best times to find us are Wednesdays at Community Night and Saturdays during Workdays -- come say hi! 
+This is what a typical month at the farm looks like during our growing season, from May to October. If you want to drop by and talk to our farmers, the best times to find us are Wednesdays at Community Night and Saturdays during Workdays -- come say hi!
 
 <div class="bg-gray">
 	<div class="container">
@@ -53,13 +53,13 @@ This is what a typical month at the farm looks like during our growing season, f
 
 
 # Volunteer Roles
-You can sign up for more than one area -- lots of volunteers are on team and also contribute in other ways. 
+You can sign up for more than one area -- lots of volunteers are on team and also contribute in other ways.
 
-Do you have an idea for a project or role you don't see listed here? Let us know! 
+Do you have an idea for a project or role you don't see listed here? Let us know!
 
 #### Team Members
 
-Altgeld Sawyer is divided into four teams of 8-10 farmers. As a team member, you will work with your team to plant, water, and tend to your team's group of ~8 vegetable beds. Teams also support general farm activities and maintenance. 
+Altgeld Sawyer is divided into four teams of 8-10 farmers. As a team member, you will work with your team to plant, water, and tend to your team's group of ~8 vegetable beds. Teams also support general farm activities and maintenance.
 
 <div class="card-deck">
   <div class="card">
@@ -104,7 +104,7 @@ Altgeld Sawyer is divided into four teams of 8-10 farmers. As a team member, you
 
 #### Team Lead
 
-Each team has a team lead, who is responsible for coordinating team activities. They act as a point of contact for their teams and help the garden run smoothly. 
+Each team has a team lead, who is responsible for coordinating team activities. They act as a point of contact for their teams and help the garden run smoothly.
 
 <div class="card-deck">
   <div class="card">
@@ -149,7 +149,7 @@ Each team has a team lead, who is responsible for coordinating team activities. 
 
 #### Christopher House
 
-Our partnership with Christopher House is core to Corner Farm's mission. A good fit for volunteers who are interested in working with youth and have daytime availability. 
+Our partnership with Christopher House is core to Corner Farm's mission. A good fit for volunteers who are interested in working with youth and have daytime availability.
 
 <div class="card-deck">
   <div class="card">
@@ -178,14 +178,14 @@ Our partnership with Christopher House is core to Corner Farm's mission. A good 
 
 #### Events & Community Outreach
 
-Help Corner Farm build community partnerships and put on public events. 
+Help Corner Farm build community partnerships and put on public events.
 <div class="card-deck">
   <div class="card">
     <img class="card-img-top" src="..." alt="Card Skill Logo">
     <h4 class="card-header">Community Outreach</h4>
     <div class="card-block">
       <!-- <h4 class="card-title">Card title</h4> -->
-      <p class="card-text">Serve as a liaison for local groups like Logan Square Neighborhood Association, Dill Pickle Co-op, and others 
+      <p class="card-text">Serve as a liaison for local groups like Logan Square Neighborhood Association, Dill Pickle Co-op, and others
 </p>
       <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
   	</div>
@@ -212,7 +212,7 @@ Help Corner Farm build community partnerships and put on public events.
     <h4 class="card-header">Planning Meetings</h4>
     <div class="card-block">
       <!-- <h4 class="card-title">Card title</h4> -->
-      <p class="card-text">Attend monthly farm meetings to share updates and discuss new opportunities 
+      <p class="card-text">Attend monthly farm meetings to share updates and discuss new opportunities
 </p>
       <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
   	</div>

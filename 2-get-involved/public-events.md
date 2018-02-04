@@ -1,5 +1,5 @@
 ---
-layout: get-involved-pages
+layout: page
 title: Public Events
 permalink: /public-events/
 ---

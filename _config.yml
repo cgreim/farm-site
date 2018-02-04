@@ -18,7 +18,7 @@ email: your-email@domain.com
 description: > #
   Altgeld Sawyer Corner Farm is a community garden that seeks to create and support a sustainable neighborhood.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cgreim.github.io/farm-site" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cornerfarmchicago.github.io/farm-site" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CornerFarmChgo
 github_username:  jekyll
 
@@ -31,7 +31,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-# For importing bootstrap
+# For importing bootstrap / design system
 sass:
   load_paths:
       - _sass
