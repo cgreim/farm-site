@@ -31,7 +31,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-# For importing bootstrap
+# For importing bootstrap / design system
 sass:
   load_paths:
       - _sass
