@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@cmsgov/design-system-core": "^1.11.0",
+    "@cmsgov/design-system-layout": "^1.11.0",
     "bootstrap": "4.0.0-alpha.6"
   }
 }
