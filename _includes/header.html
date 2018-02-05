@@ -1,12 +1,15 @@
 <header class="site-header">
-  <a href="{{ site.url }}/" class="ds-u-margin-top--1 ds-u-margin-left--1">
+  <a href="{{ site.url }}/" class="ds-u-margin-left--1">
     <img src="{{ site.url }}/assets/images/CFC-logo.png" class="logo" alt="{{ site.title | escape }}">
   </a>
 
   <nav class="ds-u-margin-right--1">
     <ul class="ds-c-list--bare main-nav">
-      <li>
-        <div class="dropdown-trigger ds-u-padding-x--2 ds-u-padding-y--4">About</div>
+      <li class="ds-u-align-item--center ">
+        <div class="dropdown-trigger ds-u-padding-x--2 ds-u-padding-y--2 ds-u-display--flex">
+          <span class="ds-u-align-item--center">About</span>
+          <i class="material-icons md-20 ds-u-align-item--center">arrow_drop_down</i>
+        </div>
         <div class="dropdown">
           <ul class="ds-c-list--bare">
             <li class="ds-u-padding--1"><a href="{{ site.url }}/altgeld-sawyer/">Altgeld Sawyer</a></li>
@@ -15,18 +18,29 @@
         </div>
       </li>
       <li>
-        <div class="dropdown-trigger ds-u-padding-x--2 ds-u-padding-y--4">Get involved</div>
+        <div class="dropdown-trigger ds-u-padding-x--2 ds-u-padding-y--2 ds-u-display--flex">
+          <span class="ds-u-align-item--center">Get involved</span>
+          <i class="material-icons md-20 ds-u-align-item--center">arrow_drop_down</i>
+        </div>
         <div class="dropdown">
           <ul class="ds-c-list--bare">
             <li class="ds-u-padding--1"><a href="{{ site.url }}/volunteering/">Volunteering</a></li>
             <li class="ds-u-padding--1"><a href="{{ site.url }}/compost/">Compost</a></li>
             <li class="ds-u-padding--1"><a href="{{ site.url }}/partnerships/">Partnerships</a></li>
-            <li class="ds-u-padding--1"><a href="{{ site.url }}/public-events/">Public events</a></li>
+            <li class="ds-u-padding--1">
+              <a href="{{ site.url }}/public-events/" class="ds-u-display--flex">
+                <i class="material-icons md-20 ds-u-align-item--center ds-u-margin-right--1">open_in_new</i>
+                <span class="ds-u-align-item--center">Public events</span>
+              </a>
+            </li>
           </ul>
         </div>
       </li>
       <li>
-        <div class="dropdown-trigger ds-u-padding-x--2 ds-u-padding-y--4">Resources</div>
+        <div class="dropdown-trigger ds-u-padding-x--2 ds-u-padding-y--2">
+          <span class="ds-u-align-item--center">Resources</span>
+          <i class="material-icons md-20 ds-u-align-item--center">arrow_drop_down</i>
+        </div>
         <div class="dropdown">
           <ul class="ds-c-list--bare">
             <li class="ds-u-padding--1"><a href="{{ site.url }}/volunteers/">Volunteers</a></li>
@@ -35,7 +49,7 @@
         </div>
       </li>
       <li>
-        <div class="ds-u-padding-x--2 ds-u-padding-y--4">
+        <div class="ds-u-padding-x--2 ds-u-padding-y--2">
           <a href="{{ site.url }}/calendar/">Calendar</a>
         </div>
       </li>

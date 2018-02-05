@@ -8,3 +8,19 @@ $image-path: 'images/';
 // Design
 //
 $font-sans: 'Montserrat', sans-serif;
+
+//
+// Color Palette
+//
+$salmonred: #FC6563;
+$shadownavy: #2D3A47;
+$gravelgray: #D5DDE4;
+$eggshellwhite: #FAFAFA;
+$fountainblue: #99D5C9;
+$mossgreen: #83B692;
+$claybrown: #A5978B;
+
+
+html, body, .ds-base {
+  color: $shadownavy !important;
+}
