@@ -3,6 +3,7 @@ layout: page
 title: Altgeld/Sawyer
 permalink: /altgeld-sawyer/
 background-photo: 'cabbage-background'
+category: about
 ---
 
 # Where are We?

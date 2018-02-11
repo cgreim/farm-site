@@ -2,6 +2,7 @@
 layout: page
 title: Mission
 permalink: /mission/
+category: about
 ---
 
 <p class="quote">Corner Farm is a meeting place, a classroom, an outdoor laboratory, an art gallery, and a much-needed green space in our neighborhood. Our goal is to cultivate not just a garden, but also a <em>community</em>.</p>

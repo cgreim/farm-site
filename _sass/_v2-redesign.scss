@@ -8,7 +8,7 @@
   box-shadow: 0px 4px 0 #000;
 }
 
-.material-icons.md-20 { font-size: 20px; }
+.material-icons.md-24 { font-size: 24px; }
 
 //
 // Header
@@ -28,7 +28,8 @@
   .main-nav {
     display: flex;
     flex-wrap: wrap;
-    // text-transform: uppercase;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 
     li {
       > .dropdown { display: none; }
@@ -58,7 +59,10 @@
 //
 // Pages
 //
-.page-header { background-position: center; }
+.page-header {
+  background-size: cover;
+  background-position: center;
+}
 
 // Background photos
 .cabbage-background { background-image: url(../assets/images/about-header.jpg); }
@@ -83,6 +87,34 @@ article {
     figcaption {
       font-size: 14px;
       font-style: italic;
+    }
+  }
+}
+
+.page-navigation {
+  background-color: #fff;
+  border-bottom: 4px solid #ededed;
+
+  .page-navigation-title {
+    background-color: $gravelgray;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+
+  ul {
+    li a {
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      text-decoration: none;
+      color: $shadownavy;
+
+      &:hover, &:focus, &:active {
+        color: $salmonred;
+      }
+    }
+
+    li:not(:last-child) {
+      border-bottom: 1px solid $gravelgray;
     }
   }
 }

@@ -11,14 +11,20 @@ layout: default
 
 <section class="ds-l-container preview__grid">
   <div class="ds-l-row">
-    <article class="ds-l-col--8">
+    <article class="ds-l-col--8 ds-u-margin-top--7">
       {{ content }}
     </article>
 
     <aside class="ds-l-col--4">
-      <nav>
-        <ul>
-          <li><a href="#">I'm a sidebar link</a></li>
+      <nav class="page-navigation ds-u-margin-top--7">
+        <div class="page-navigation-title ds-u-padding--1">
+          {{ page.category }}
+        </div>
+        <ul class="ds-c-list--bare ds-u-padding--1">
+          <li class="ds-u-padding--1"><a href="#">{{ page.path | split:"/" | first }}</a></li>
+          {% for page in site.pages %}
+            <li class="ds-u-padding--1"><a href="#">{{ page.title }}</a></li>
+          {% endfor %}
         </ul>
       </nav>
     </aside>

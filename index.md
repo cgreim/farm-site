@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-Title: Corner Farm
+title: Corner Farm
 ---
 
 ### Growing Calendar
@@ -19,14 +19,14 @@ Title: Corner Farm
 			<ul>
 				<li>Plan fundraiser</li>
 				<li>Plan orientation and kickoff meetings</li>
-			</ul>	
+			</ul>
 		</li>
 		<li>March
 			<ul>
 				<li>Hold orientation sessions and kickoff meetings</li>
 				<li>Host fundraiser</li>
 				<li>Start seeds for summer crops</li>
-			</ul>	
+			</ul>
 		</li>
 		<li>April
 			<ul>
@@ -36,13 +36,13 @@ Title: Corner Farm
 				<li>Spread soil</li>
 				<li>Set up rain barrels</li>
 				<li>Compost opens</li>
-			</ul>	
+			</ul>
 		</li>
 		<li>May
 			<ul>
 				<li>Direct sow spring crops</li>
 				<li>Plant seedlings for summer crops</li>
-			</ul>	
+			</ul>
 		</li>
 		<li>June
 			<ul>
@@ -51,14 +51,14 @@ Title: Corner Farm
 				<li>Potluck with Christopher House and Kids Table</li>
 				<li>Weed!</li>
 				<li>Harvest spring crops</li>
-			</ul>	
+			</ul>
 		</li>
 		<li>July
 			<ul>
 				<li>Begin treating for pests</li>
 				<li>Harvest summer crops</li>
 				<li>Plant late summer/fall crops</li>
-			</ul>	
+			</ul>
 		</li>
 		<li>August
 			<ul>
@@ -66,12 +66,12 @@ Title: Corner Farm
 				<li>Harvest summer crops</li>
 				<li>Harvest and cure garlic</li>
 				<li>Plant late summer/fall crops</li>
-			</ul>	
+			</ul>
 		</li>
 		<li>September
 			<ul>
 				<li>Harvest fall crops</li>
-			</ul>	
+			</ul>
 		</li>
 		<li>October
 			<ul>
@@ -80,17 +80,17 @@ Title: Corner Farm
 				<li>Plant garlic for next year</li>
 				<li>Cover beds with mulch/hay</li>
 				<li>Empty and store rain barrels </li>
-			</ul>	
+			</ul>
 		</li>
 		<li>November
 			<ul>
 				<li>Take a break!</li>
-			</ul>	
+			</ul>
 		</li>
 		<li>December
 			<ul>
 				<li>Meet for special projects</li>
-			</ul>	
+			</ul>
 		</li>
 	</ul>
 </div>
