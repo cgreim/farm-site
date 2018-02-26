@@ -1,4 +1,116 @@
 //
+// Splash Page
+//
+
+header {
+  /*background-color: $mossgreen;*/
+  background-image: url(../assets/images/home-splash.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+
+  p {
+    color: $eggshellwhite;
+  }
+}
+
+h1 {
+  color: $eggshellwhite;
+  font-size: 96px;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+}
+
+em {
+  color: $mossgreen;
+}
+
+.logo {
+    height: 80px;
+    padding: 0 8px 8px 8px;
+    background: #fff;
+  }
+
+.intro {
+  h4 {
+    font-size: 32px;
+    color: $salmonred;
+  }
+
+  p {
+    font-size: 24px;
+    color: $mossgreen; 
+    font-weight: 300;
+  }
+
+  button{
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 1.6px;
+    padding:10px;
+    color: #fff;
+    border:none;
+    border-radius: 4px;
+    background: #FC6563;
+    box-shadow: 0px 4px #D14846;
+  }
+}
+
+
+
+
+.schedule {
+  background: $mossgreen;
+
+  h3 {
+    font-size:40px;
+    color: $eggshellwhite;
+    background: $salmonred;
+    position: relative;
+    top: -40px;
+  }
+
+  p {
+  font-size: 24px;
+  color: $eggshellwhite;
+  }
+
+  .date {
+  color: $eggshellwhite;
+  font-size: 32px;
+  font-weight:700;
+  margin: 0;
+  padding: 0;
+  }
+
+.info {
+  color: $shadownavy;
+  font-size: 20px;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  }
+}
+
+
+
+.construction {
+  height: 400px;
+  background-color: $shadownavy;
+
+  p {
+  color: $eggshellwhite;
+  font-size: 16px;
+  text-transform: uppercase;
+  }
+
+}
+
+
+
+
+//
 // Button mods
 //
 .ascf-button--salmon {
