@@ -1,0 +1,27 @@
+- title: About
+  sublinks:
+    - title: Altgeld Sawyer
+      url: /altgeld-sawyer/
+    - title: Mission
+      url: /mission/
+
+- title: Get Involved
+  sublinks:
+    - title: Volunteering
+      url: /volunteering/
+    - title: Compost
+      url: /compost/
+    - title: Partnerships
+      url: /partnerships/
+    - title: Public Events
+      url: /public-events/
+
+- title: Resources
+  sublinks:
+    - title: Volunteers
+      url: /volunteers/
+    - title: General Farming
+      url: /general-farming/
+
+- title: Calendar
+  url: /calendar/

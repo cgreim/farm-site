@@ -17,15 +17,20 @@ layout: default
 
     <aside class="ds-l-col--4">
       <nav class="page-navigation ds-u-margin-top--7">
-        <div class="page-navigation-title ds-u-padding--1">
-          {{ page.category }}
-        </div>
-        <ul class="ds-c-list--bare ds-u-padding--1">
-          <li class="ds-u-padding--1"><a href="#">{{ page.path | split:"/" | first }}</a></li>
-          {% for page in site.pages %}
-            <li class="ds-u-padding--1"><a href="#">{{ page.title }}</a></li>
-          {% endfor %}
-        </ul>
+      {% for item in site.data.navigation %}
+        {% for entry in item.sublinks %}
+          {% if entry.url == page.url %}
+          <div class="page-navigation-title ds-u-padding--1">
+            {{item.title}}
+          </div>
+          <ul class="ds-c-list--bare ds-u-padding--1">
+            {% for entry in item.sublinks %}
+              <li class="ds-u-padding--1"><a href="{{entry.url}}">{{entry.title}}</a</li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
       </nav>
     </aside>
   </div>
