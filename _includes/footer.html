@@ -1,37 +1,45 @@
-<footer class="py-5 mt-5">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-4 d-inline-flex">
-        <a class="navbar-brand" href="{{ site.url }}/">
-          <img src="{{ site.url }}/assets/images/CFC-logo.png" class="logo" alt="{{ site.title | escape }}">
-        </a>
-        <div class="">
-          <h6>Grow with us.</h6>
-          <p>Corner of Altgeld &amp; Sawyer</p>
+<footer class="ds-u-margin-top--7 ds-u-padding-y--7">
+  <div class="ds-l-container">
+    <div class="ds-l-row">
+
+      <div class="ds-l-col">
+        <div class="ds-u-display--flex">
+          <div class="ds-u-justify-content--start">
+            <a href="{{ site.url }}/">
+              <div class="footer-logo">{% include CFC-logo.svg %}</div>
+            </a>
+          </div>
+          <div class="ds-u-justify-content--start ds-u-margin-left--1">
+            <h6 class="ds-h4">Grow with us.</h6>
+            <p class="ds-u-font-style--italic">Corner of Altgeld &amp; Sawyer</p>
+          </div>
         </div>
       </div>
-      <div class="col-lg-4">
-        <h6>Connect with us:</h6>
-        <ul class="social">
-          <li><a href="https://www.facebook.com/AltgeldSawyerCornerFarm/">{% include facebook.svg %}Facebook</a></li>
-          <li><a href="https://www.instagram.com/cornerfarmchicago/">{% include instagram.svg %} Instagram</a></li>
-          <li><a href="http://eventbrite.com">{% include eventbrite.svg %} Eventbrite</a></li>
-        </ul>
+
+      <div class="ds-l-col">
+        <h6 class="ds-h4">Connect with us.</h6>
+        <div class="footer-social">
+          <a href="https://www.facebook.com/AltgeldSawyerCornerFarm/">{% include facebook.svg %}</a>
+          <a href="https://www.instagram.com/cornerfarmchicago/">{% include instagram.svg %}</a>
+          <a href="http://eventbrite.com">{% include eventbrite.svg %}</a>
+        </div>
       </div>
-      <div class="col-lg-4">
-        <h6>Subscribe to our newsletter:</h6>
+
+      <div class="ds-l-col">
+        <h6 class="ds-h4">Subscribe to our newsletter.</h6>
         <form action="https://cornerfarmchicago.us6.list-manage.com/subscribe/post?u=4d21a12176932e6eceaa39ce7&amp;id=7a8a40c039" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
           <div id="mc_embed_signup_scroll">
-            <label class="sr-only" for="inlineFormInput">Name</label>
-            <input type="email" value="" name="EMAIL" class="email form-control mb-2 mr-sm-2 mb-sm-0" id="mce-EMAIL" placeholder="you@email.com">
+            <label class="sr-only" for="inlineFormInput">Email</label>
+            <input type="email" value="" name="EMAIL" class="email email-input " id="mce-EMAIL" placeholder="you@email.com">
             <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4d21a12176932e6eceaa39ce7_7a8a40c039" tabindex="-1" value=""></div>
-            <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">
+            <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="ascf-button--salmon">
           </div>
         </form>
       </div>
+
     </div>
-    <div class="row">
-    	<div class="col text-center">
+    <div class="ds-l-row">
+    	<div class="ds-l-col ds-u-text-align--center ds-u-padding-y--4">
         	<p>&copy; 2017 {{ site.title | escape }}</p>
       </div>
     </div>

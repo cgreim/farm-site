@@ -2,6 +2,7 @@
 layout: page
 title: Compost
 permalink: /compost/
+background-photo: 'compost-background'
 ---
 
 <p class="alert-danger text-center">Compost is <b>CLOSED</b> for the season.<br>
