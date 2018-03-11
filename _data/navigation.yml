@@ -1,27 +1,27 @@
 - title: About
-  url: /about.html
   sublinks:
-    - title: Mission
-      url: /mission.html
     - title: Altgeld Sawyer
-      url: /altgeld-sawyer.html
+      url: /altgeld-sawyer/
+    - title: Mission
+      url: /mission/
+
 - title: Get Involved
-  url: /get_involved.html
   sublinks:
     - title: Volunteering
-      url: /volunteering.html
+      url: /volunteering/
     - title: Compost
-      url: /compost.html
-    - title: Public Events
-      url: /public-events.html
+      url: /compost/
     - title: Partnerships
-      url: /partnerships.html
+      url: /partnerships/
+    - title: Public Events
+      url: /public-events/
+
 - title: Resources
-  url: /resources.html
   sublinks:
-    - title: CFC Volunteers
-      url: /volunteers.html
+    - title: Volunteers
+      url: /volunteers/
     - title: General Farming
-      url: /general-farming.html
+      url: /general-farming/
+
 - title: Calendar
-  url: /calendar.html
+  url: /calendar/
