@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@cmsgov/design-system-core": "^1.15.0",
+    "@cmsgov/design-system-layout": "^1.15.0"
+  }
+}

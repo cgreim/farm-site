@@ -1,5 +1,12 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-
-@import "minima";
+@import 'normalize';
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200,300,400,400i,700');
+// @import 'variable-overrides';
+@import 'design-system-core';
+@import 'design-system-layout';
+// @import '@cmsgov/design-system-core/src/index';
+// @import '@cmsgov/design-system-layout/src/index';
+@import 'variable-overrides';
+@import 'v2-redesign';

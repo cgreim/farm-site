@@ -1,0 +1,31 @@
+//
+// Paths
+//
+$font-path: 'fonts/';
+$image-path: 'images/';
+
+//
+// Design
+//
+$font-sans: 'Montserrat', sans-serif;
+
+//
+// Color Palette
+//
+$salmonred: #FC6563;
+$shadownavy: #2D3A47;
+$gravelgray: #D5DDE4;
+$eggshellwhite: #FAFAFA;
+$fountainblue: #99D5C9;
+$mossgreen: #83B692;
+$claybrown: #A5978B;
+
+
+html, body, .ds-base {
+  color: $shadownavy !important;
+  background-color: $eggshellwhite;
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 16px;
+  line-height: 1.75;
+  font-weight: 400;
+}
