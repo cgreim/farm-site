@@ -18,7 +18,10 @@ Altgeld Sawyer Corner Farm is a teaching and learning garden, and we grow vegeta
 
 Each team of gardeners is responsible for collectively tending a set of beds. We look for a mix of experience when making teams, so whether you're a seasoned gardener or this is your first season growning, we welcome you! Visit our [Volunteering page]({{ site.url }}/volunteering/) to learn more and sign up.
 
-[picture of volunteers, maybe from a potluck or farmer hangout]
+<figure>
+	<img src="{{ site.url }}/assets/images/workday.jpg" alt="Welcome" />
+	<figcaption>Welcome to the farm!</figcaption>
+</figure>
 
 ## Raised Beds
 
@@ -54,4 +57,7 @@ The Altgeld Sawyer Corner Farm accepts compost donations May through October on 
 
 During summer days, Altgeld Sawyer Corner Farm is full of questions and excitment from our youngest farmers. We partner with [Christopher House](https://christopherhouse.org/) and [The Kids' Table](https://www.kids-table.com/) to bring their students to the garden, to harvest and make recipes from the vegetables we grow.
 
-[photo of Christopher House and Kid's Table activities here.
+<figure>
+	<img src="{{ site.url }}/assets/images/chouse_kids_table.jpg" alt="Welcome" />
+	<figcaption>Making some delicious food!</figcaption>
+</figure>
