@@ -270,6 +270,25 @@
 //   }
 // }
 
+
+//
+// Typography
+//
+
+h1 {
+  font-size: 32px;
+  color: $salmonred;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 24px;
+  color: $salmonred;
+  font-weight: 700;
+}
+
+
+
 //
 // Pages
 //
@@ -336,6 +355,44 @@ article {
       border-bottom: 1px solid $gravelgray;
     }
   }
+}
+
+.error {
+  background-color: $salmonred;
+  color: $eggshellwhite;
+  font-size: 24px;
+}
+
+.quote {
+  color: $mossgreen;
+  font-size: 24px;
+  padding-left: 0.75em;
+  border-left: 3px solid $mossgreen;
+}
+
+.compost-accept {
+  border: 3px solid $mossgreen;
+  color: $mossgreen;
+}
+
+.compost-reject {
+border: 3px solid $shadownavy;
+color: $shadownavy;
+}
+
+.compost-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.compost-item {
+  font-size: 14px;
+  padding: 1rem;
+}
+
+.small {
+  font-size: 14px;
 }
 
 //
