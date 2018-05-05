@@ -275,6 +275,10 @@
 // Typography
 //
 
+p {
+  margin-top: 8px;
+}
+
 h2 {
   font-size: 32px;
   color: $salmonred;
@@ -285,6 +289,12 @@ h3 {
   font-size: 24px;
   color: $salmonred;
   font-weight: 700;
+}
+
+h4 {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 0; 
 }
 
 .small {
@@ -361,6 +371,12 @@ article {
 
 .error {
   background-color: $salmonred;
+  color: $eggshellwhite;
+  font-size: 24px;
+}
+
+.success {
+  background-color: $mossgreen;
   color: $eggshellwhite;
   font-size: 24px;
 }

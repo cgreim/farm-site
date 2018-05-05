@@ -30,8 +30,8 @@ Visit our [Volunteering page]({{ site.url }}/volunteering/) to learn more and si
 Most of our vegetables are grown in raised beds. Most beds are four feet by four feet, and can grow an astounding amount of vegetables! Check out our [Farming Guide]({{ site.url }}/general-farming/) for more information about square foot gardening and how you can start your own plot at home.
 
 <figure>
-	<img src="{{ site.url }}/assets/images/tomato_tower.JPG" alt="Team Beds and a Tomato Tower" />
-	<figcaption>Sometimes we even grow in tomato towers!</figcaption>
+	<img src="{{ site.url }}/assets/images/raised_bed.jpg" alt="Raised Beds" />
+	<figcaption>Lots of veggies growing!</figcaption>
 </figure>
 
 

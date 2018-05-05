@@ -13,8 +13,8 @@
       url: /compost/
     - title: Partnerships
       url: /partnerships/
-    - title: Public Events
-      url: /public-events/
+    # - title: Public Events
+    #   url: /public-events/
 
 - title: Resources
   sublinks:

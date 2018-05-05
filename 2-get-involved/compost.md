@@ -5,8 +5,8 @@ permalink: /compost/
 background-photo: 'compost-background'
 ---
 
-<p class="error ds-u-text-align--center ds-u-padding--2 ds-u-margin-top--0">Compost is <b>CLOSED</b> for the season.<br>
-	See you in the spring!</p>
+<p class="success ds-u-text-align--center ds-u-padding--2 ds-u-margin-top--0">Compost is <b>OPEN</b> for the season.<br>
+	Bring us your scraps!</p>
 
 ## Community Compost
 
