@@ -4,7 +4,7 @@ title: General Farming
 permalink: /general-farming/
 ---
 
-# Guide to Garden Growth
+## Guide to Garden Growth
 
 Gardening can be a bit daunting (because *living things*), but it is not particularly difficult. Remember that – above all else – the plants want to grow. They want sun (check), soil (check), and water (that’s on you), and to make copies of themselves.
 
