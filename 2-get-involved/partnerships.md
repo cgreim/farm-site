@@ -4,8 +4,32 @@ title: Partnerships
 permalink: /partnerships/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan, nisl vitae porttitor viverra, dui purus sodales purus, sed dignissim purus velit a risus. Aliquam erat volutpat. Morbi tempor sed magna nec faucibus. Duis elementum nisl ut nisl tincidunt sollicitudin. Nullam mattis vitae sapien ut condimentum. Ut sit amet nulla pharetra, rhoncus dui ut, commodo nunc. Nulla facilisi. Nam a lacus congue, suscipit tellus eu, vulputate mi. Etiam et feugiat lacus. Suspendisse leo mi, cursus ac lorem eu, mollis malesuada tortor. Integer nisi odio, convallis vitae magna ut, consequat aliquam velit. Donec pellentesque massa placerat tortor mollis lobortis. Nullam varius leo justo, sed accumsan eros tristique commodo. Sed eget tortor vitae risus ullamcorper imperdiet.
+## Christopher House
 
-In vel risus nisi. Cras convallis leo nisl. Ut at feugiat lorem, at egestas tortor. Maecenas sit amet dignissim lorem, eget eleifend sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut ligula eros, porttitor viverra velit eleifend, commodo tempus mauris. Morbi eu molestie mi, vitae imperdiet massa. Sed laoreet sodales dictum. Sed eleifend tincidunt dolor, vel pulvinar urna dignissim ut. Aliquam dapibus lobortis condimentum. Nulla scelerisque ut ipsum pharetra semper. Suspendisse sed diam nunc. Fusce luctus volutpat vulputate. In sit amet quam quis augue tincidunt dictum a ac enim. Fusce varius maximus mi semper rutrum. Etiam scelerisque sagittis gravida.
+[Christopher House](https://christopherhouse.org/) is a family of schools that helps low-income, at-risk families succeed in school, the workplace, and life.
 
-Phasellus sit amet lorem varius, tempor urna eu, imperdiet ipsum. Nam aliquet luctus laoreet. Fusce orci mauris, tristique eget ex at, fringilla ornare urna. Curabitur lobortis feugiat diam, non bibendum libero rutrum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vestibulum ligula diam, quis gravida nibh fermentum non. Proin fringilla turpis non dolor blandit, quis iaculis dui pretium. Praesent consectetur felis vel tincidunt laoreet. Nunc bibendum nibh et venenatis pretium. Sed varius est commodo nisi porta pharetra vulputate in lectus. Mauris volutpat porttitor consectetur. Donec et leo mi. Aenean a est sagittis, pretium felis ut, hendrerit turpis. Aliquam nec scelerisque leo, quis fermentum dui. Morbi in tristique sapien.
+We partner with the Christopher House location in Logan Square, just across the street from the farm. Throughout the year, our volunteers work in teams to plant and tend to a variety of vegetables which are donated to the families of students at Christopher House. Corner Farm also serves as an educational space and outdoor classroom for the students of Christopher House, where students learn about how food grows and help with harvesting the produce that Corner Farm grows.
+
+Together, our goal is to create a space where neighborhood youth can actively learn about how food grows, and provide the families of Christopher House with locally grown vegetables.
+
+
+## Other Partnerships
+
+#### The Kids' Table
+
+Together with Christopher House, we help support [The Kids' Table](https://www.kids-table.com/), a unique Chicago cooking school which offers hands-on classes and events for tots, kids, teens, and families to learn recipes and skills to create tasty, healthy dishes.
+
+Students from Christopher House and The Kids' Table meet at the Altgeld-Sawyer Corner Farm to learn about how vegetables grow, help harvest the produce, and turn it into delicious and healthy dishes.
+
+#### LSNA
+
+[Logan Square Neighborhood Association (LSNA)](http://www.lsna.net/) is a community-based organization advancing diversity, leader development, and models for engagement as the catalyst for social justice.
+
+#### The Dill Pickle Food Co-op
+
+The [Dill Pickle Food Co-op](https://dillpickle.coop/) offers healthy food choices and the benefits of cooperative practice to build a vibrant local community and more sustainable world. 
+
+
+## New Partnerships
+
+We're always looking for new partnership opportunities! If you are passionate about food and would like to discuss a partnership opportunity, please [contact us.](mailto:cornerfarmchicago@gmail.com)
