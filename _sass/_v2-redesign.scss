@@ -270,6 +270,37 @@
 //   }
 // }
 
+
+//
+// Typography
+//
+
+p {
+  margin-top: 8px;
+}
+
+h2 {
+  font-size: 32px;
+  color: $salmonred;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 24px;
+  color: $salmonred;
+  font-weight: 700;
+}
+
+h4 {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 0; 
+}
+
+.small {
+  font-size: 14px;
+}
+
 //
 // Pages
 //
@@ -336,6 +367,64 @@ article {
       border-bottom: 1px solid $gravelgray;
     }
   }
+}
+
+.error {
+  background-color: $salmonred;
+  color: $eggshellwhite;
+  font-size: 24px;
+}
+
+.success {
+  background-color: $mossgreen;
+  color: $eggshellwhite;
+  font-size: 24px;
+}
+
+.quote {
+  color: $mossgreen;
+  font-size: 24px;
+  padding-left: 0.75em;
+  border-left: 3px solid $mossgreen;
+}
+
+.compost-accept {
+  border: 3px solid $mossgreen;
+  color: $mossgreen;
+  background: #fff;
+}
+
+.compost-reject {
+border: 3px solid $shadownavy;
+color: $shadownavy;
+background: #fff;
+}
+
+.compost-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.compost-item {
+  font-size: 14px;
+  padding: 1.5rem;
+}
+
+.compost-icon-accept {
+  width: 60px;
+  height: 60px;
+  background: $mossgreen;
+  border-radius: 50%;
+  margin: auto;
+}
+
+.compost-icon-reject {
+  width: 60px;
+  height: 60px;
+  background: $shadownavy;
+  border-radius: 50%;
+  margin: auto;
 }
 
 //

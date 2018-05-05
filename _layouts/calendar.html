@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<header class="page-header {% if page.background-photo %}{{ page.background-photo }}{% else %}cabbage-background{% endif %} ds-u-padding-y--6">
+  <div class="ds-l-container">
+    <div class="ds-l-row">
+      <h1 class="ds-display ds-u-padding-x--2">{{ page.title | escape }}</h1>
+    </div>
+  </div>
+</header>
+
+<section class="ds-l-container preview__grid">
+  <div class="ds-l-row">
+    <article class="ds-l-col ds-u-margin-top--7">
+      {{ content }}
+    </article>
+  </div>
+</section>
