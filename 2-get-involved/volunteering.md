@@ -4,10 +4,13 @@ title: Volunteering
 permalink: /volunteering/
 ---
 
-We're always looking for new volunteers! We recruit farmers in early spring for the upcoming season, but you can plug in any time. Fill out our sign up form and let us know what you're interested in, and someone from our team will be in touch.<br>
+We're always looking for new volunteers! We recruit farmers in early spring for the upcoming season, but you can plug in any time. 
+<!--Old form from 2017. Replace with new form?
+Fill out our sign up form and let us know what you're interested in, and someone from our team will be in touch.<br>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcfSth4Z-ItikdXXfxEAqy89jpB2A8qrSHoXGnBhNfuIWAA/viewform" target="_blank" role="button" class="btn btn-primary btn-lg">Volunteer Sign Up</a>
+-->
 
-For groups interested in volunteering, email us at cornerfarmchicago@gmail.com.
+For groups interested in volunteering, email us at <a href="mailto:cornerfarmchicago@gmail.com">cornerfarmchicago@gmail.com</a>.
 
 # Month at a Glance
 
@@ -63,7 +66,7 @@ Altgeld Sawyer is divided into four teams of 8-10 farmers. As a team member, you
 
 <div class="card-deck">
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card Skill Logo">
+    <!-- Image is needed.  <img class="card-img-top" src="..." alt="Card Skill Logo">-->
     <h4 class="card-header">Workdays</h4>
     <div class="card-block">
       <!-- <h4 class="card-title">Card title</h4> -->
@@ -76,7 +79,7 @@ Altgeld Sawyer is divided into four teams of 8-10 farmers. As a team member, you
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card Skill Logo">
+    <!-- Image is needed. <img class="card-img-top" src="..." alt="Card Skill Logo"> -->
     <h4 class="card-header">Team Week</h4>
     <div class="card-block">
       <!-- <h4 class="card-title">Card title</h4> -->
@@ -89,7 +92,7 @@ Altgeld Sawyer is divided into four teams of 8-10 farmers. As a team member, you
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card Skill Logo">
+    <!-- Image is needed. <img class="card-img-top" src="..." alt="Card Skill Logo"> -->
     <h4 class="card-header">Community Nights</h4>
     <div class="card-block">
       <!-- <h4 class="card-title">Card title</h4> -->
@@ -108,7 +111,7 @@ Each team has a team lead, who is responsible for coordinating team activities. 
 
 <div class="card-deck">
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card Skill Logo">
+    <!-- Image is needed. <img class="card-img-top" src="..." alt="Card Skill Logo"> -->
     <h4 class="card-header">Team Rep</h4>
     <div class="card-block">
       <!-- <h4 class="card-title">Card title</h4> -->
@@ -121,7 +124,7 @@ Each team has a team lead, who is responsible for coordinating team activities. 
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card Skill Logo">
+    <!-- Image is needed. <img class="card-img-top" src="..." alt="Card Skill Logo"> -->
     <h4 class="card-header">Team Week</h4>
     <div class="card-block">
       <!-- <h4 class="card-title">Card title</h4> -->
@@ -134,7 +137,7 @@ Each team has a team lead, who is responsible for coordinating team activities. 
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card Skill Logo">
+    <!-- Image is needed. <img class="card-img-top" src="..." alt="Card Skill Logo"> -->
     <h4 class="card-header">Planning Meetings</h4>
     <div class="card-block">
       <!-- <h4 class="card-title">Card title</h4> -->
@@ -153,7 +156,7 @@ Our partnership with Christopher House is core to Corner Farm's mission. A good 
 
 <div class="card-deck">
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card Skill Logo">
+    <!-- Image is needed. <img class="card-img-top" src="..." alt="Card Skill Logo"> -->
     <h4 class="card-header">Harvest</h4>
     <div class="card-block">
       <!-- <h4 class="card-title">Card title</h4> -->
@@ -164,7 +167,7 @@ Our partnership with Christopher House is core to Corner Farm's mission. A good 
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card Skill Logo">
+    <!-- Image is needed. <img class="card-img-top" src="..." alt="Card Skill Logo"> -->
     <h4 class="card-header">Work with Kids</h4>
     <div class="card-block">
       <!-- <h4 class="card-title">Card title</h4> -->
@@ -181,7 +184,7 @@ Our partnership with Christopher House is core to Corner Farm's mission. A good 
 Help Corner Farm build community partnerships and put on public events.
 <div class="card-deck">
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card Skill Logo">
+    <!-- Image is needed. <img class="card-img-top" src="..." alt="Card Skill Logo"> -->
     <h4 class="card-header">Community Outreach</h4>
     <div class="card-block">
       <!-- <h4 class="card-title">Card title</h4> -->
@@ -195,7 +198,7 @@ Help Corner Farm build community partnerships and put on public events.
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card Skill Logo">
+    <!-- Image is needed. <img class="card-img-top" src="..." alt="Card Skill Logo"> -->
     <h4 class="card-header">Events</h4>
     <div class="card-block">
       <!-- <h4 class="card-title">Card title</h4> -->
@@ -208,7 +211,7 @@ Help Corner Farm build community partnerships and put on public events.
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card Skill Logo">
+    <!-- Image is needed. <img class="card-img-top" src="..." alt="Card Skill Logo"> -->
     <h4 class="card-header">Planning Meetings</h4>
     <div class="card-block">
       <!-- <h4 class="card-title">Card title</h4> -->
