@@ -157,9 +157,9 @@ If you see a bug you don’t recognize, research them. Don't necessarily kill ev
 
 As mentioned above, companion planting can be a good way to plan out your garden. You can even eliminate the need for mulches through dense planting that uses various plants' sizes and relationships to make your garden healthy. This requires quite a bit of planning, but results in beautiful and high yields when pulled off. [Here’s a good book](https://www.amazon.com/Carrots-Love-Tomatoes-Companion-Successful/dp/1580170277) on the topic.
 
-#### Square food gardening
+#### Square foot gardening
 
-[Square food gardening](https://en.wikipedia.org/wiki/Square_foot_gardening) uses spacing and strict planting patterns to achieve high yields in small spaces. Depending on its size, each crop is assigned a number of the item you can fit per 1ft x 1ft square.
+[Square foot gardening](https://en.wikipedia.org/wiki/Square_foot_gardening) uses spacing and strict planting patterns to achieve high yields in small spaces. Depending on its size, each crop is assigned a number of the item you can fit per 1ft x 1ft square.
 
 <figure class="float-left img-small mx-3">
 	<img src="{{ site.url }}/assets/images/sq-ft-garden.jpg" alt="Square Foot Gardening"/>
