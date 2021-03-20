@@ -1,5 +1,5 @@
 --- 
-layout: page 
+layout: splash 
 title: Home 
 permalink: /test/ 
 category: home 
@@ -8,17 +8,11 @@ category: home
 <header>
 
 <div class="ds-l-container">
-
-<div class="ds-l-row ds-u-margin-bottom--7">
-
-<div class="ds-l-col">[![{{ site.title | escape }}]({{ site.url }}/assets/images/CFC-logo.png)]({{ site.url }}/)</div>
-
-</div>
-
-<div class="ds-l-row ds-u-margin-top--7">
-
-<div class="ds-l-col">
-
+  <div class="ds-l-row ds-u-margin-bottom--7">
+    <div class="ds-l-col">[![{{ site.title | escape }}]({{ site.url }}/assets/images/CFC-logo.png)]({{ site.url }}/)</div>
+  </div>
+  <div class="ds-l-row ds-u-margin-top--7">
+    <div class="ds-l-col">
 # <span>Grow</span>
 
 </div>
