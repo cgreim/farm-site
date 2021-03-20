@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  
-  {% include head.html %}
-
+{% include header.html %}
+ <!-- 
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -17,12 +16,13 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
         rel="stylesheet">
   </head>
-
+-->
   <body class="ds-base" id="splash">
     
      {% include header.html %}
 
     <header>
+       <!-- remove 2nd CFC logo
     	<div class="ds-l-container">
     		<div class="ds-l-row ds-u-margin-bottom--7">
     				<div class="ds-l-col">
@@ -30,7 +30,7 @@
     	    <img src="{{ site.url }}/assets/images/CFC-logo.png" class="logo" alt="{{ site.title | escape }}"></a>
     				</div>
     			</div>
-
+-->
     		<div class="ds-l-row ds-u-margin-top--7">
     			<div class="ds-l-col">
     				<h1><span>Grow</span></h1>
@@ -60,27 +60,6 @@
 
     	</div>
     </header>
-
-    <!-- menu start -->
-        <aside class="ds-l-col--4">
-      <nav class="page-navigation ds-u-margin-top--7">
-      {% for item in site.data.navigation %}
-        {% for entry in item.sublinks %}
-          {% if entry.url == page.url %}
-          <div class="page-navigation-title ds-u-padding--1">
-            {{item.title}}
-          </div>
-          <ul class="ds-c-list--bare ds-u-padding--1">
-            {% for entry in item.sublinks %}
-              <li class="ds-u-padding--1"><a href="{{entry.url}}">{{entry.title}}</a</li>
-            {% endfor %}
-          </ul>
-          {% endif %}
-        {% endfor %}
-      {% endfor %}
-      </nav>
-    </aside>
-    <!-- menu end -->
     
     <div class="content ds-l-container intro">
     	<div class="ds-l-row">
