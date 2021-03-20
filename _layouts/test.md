@@ -1,7 +1,7 @@
 --- 
 layout: page 
 title: Home 
-permalink: /home2/ 
+permalink: /test/ 
 category: home 
 ---
 
