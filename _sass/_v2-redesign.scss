@@ -10,7 +10,8 @@
     background-image: url(../assets/images/SaveCornerFarm.jpg);
     background-repeat: no-repeat;
     background-position: center top;
-    background-size: cover;
+    //Add back after fundraiser background-size: cover;
+    /*Remove after fundraiser*/background-size: auto;
 
     p {
       color: $eggshellwhite;
