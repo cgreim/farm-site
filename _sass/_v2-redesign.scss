@@ -10,7 +10,7 @@
     background-image: url(../assets/images/SaveCornerFarm.jpg);
     background-repeat: no-repeat;
     background-position: center top;
-    //Add back after fundraiser background-size: cover;
+    //Add back after fundraiser       background-size: cover;
     /*Remove after fundraiser*/background-size: auto;
 
     p {
@@ -28,7 +28,7 @@
 
     span {
       padding: 0 20px;
-      box-shadow: inset 0 -44px 0 0 $salmonred;
+      //Add back after fundraiser       box-shadow: inset 0 -44px 0 0 $salmonred;
     }
 
     .arrow {
