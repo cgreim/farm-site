@@ -31,10 +31,13 @@
       box-shadow: inset 0 -44px 0 0 $salmonred;
     }
 //Remove after fundraiser
-    .fundraiser{
+    .fundraiserSpan{
       padding: 0 20px;
+    }
+    .fundraiserDiv{
       color:black;
-      box-shadow: inset 0 -12px 0 0 $salmonred;
+      //box-shadow: inset 0 -12px 0 0 $salmonred;
+      background-color:$salmonred;
     }
 /////////////////////// 
     .arrow {
