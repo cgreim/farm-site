@@ -33,13 +33,14 @@
 //Remove after fundraiser
     .fundraiserSpan{
       padding: 0 20px;
+      box-shadow: inset 0 -44px 0 0 white;
     }
     .fundraiserDiv{
-      color:black;
-      background-color:$salmonred;
+      color: black;
+      background-color: $salmonred;
     }
-    .fundraiserA{
-      color:white;
+    a.fundraiserA:link{
+      color: white;
     }
 /////////////////////// 
     .arrow {
