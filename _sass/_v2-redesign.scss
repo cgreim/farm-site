@@ -6,15 +6,24 @@
     .fundraiser {
       p {
         background-color: $salmonred;
+        font-weight: bold;
       }
       a:hover, a:active, a:visited, a:link{
-        //transform: translateY(2px);
-       // box-shadow: 0px 2px #D14846;
+        color:white;
+        font-weight: bold;
+      }
+      a:active{
         color:white;
         text-decoration: underline;
       }
-      a:hover {
-        font-weight: bold;
+      a:visited{
+        color:white;
+        text-decoration: underline;
+      }
+      a:link{
+        color:white;
+        text-decoration: underline;
+      }
     }
 /////////////////////// 
   .top {
